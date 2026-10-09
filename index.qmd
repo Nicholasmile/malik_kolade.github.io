@@ -10,7 +10,7 @@ description: "Economics graduate using data and research to answer business and 
 
 # Turning data into useful decisions.
 
-<p class="lead">I’m Kolade Malik Ishola, an Economics graduate based in Lagos. I use Python, econometrics, and careful analysis to investigate business and development questions—and explain what the evidence means.</p>
+<p class="lead">I’m Malik, an Economics graduate based in Lagos. I use Python, econometrics, and careful analysis to investigate business and development questions and explain what the evidence means.</p>
 
 ::: {.actions}
 [Explore my work](projects.qmd){.btn-primary-custom}
