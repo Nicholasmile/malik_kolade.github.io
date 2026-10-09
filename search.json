@@ -1,0 +1,345 @@
+[
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "Applied economics work spanning household welfare, finance, and macroeconomic relationships."
+  },
+  {
+    "objectID": "research.html#selected-research-experience",
+    "href": "research.html#selected-research-experience",
+    "title": "Research",
+    "section": "Selected research experience",
+    "text": "Selected research experience\nThe following summaries reflect projects listed in my CV. Papers, datasets, and numerical results are not yet published here.\n\nOut-of-pocket healthcare expenditure and household welfare in Nigeria\nTools: Python and Stata · Data: household survey data\nConducted quantitative research involving data sourcing, cleaning, variable construction, analysis, interpretation, and reporting. Examined the relationship between healthcare expenditure and household welfare and translated statistical evidence into policy-relevant findings.\n\n\nGreen finance and technological innovation\nTools: EViews and Stata · Scope: ECOWAS panel study\nSourced, restructured, cleaned, and validated multi-country data. The project involved ARDL, DOLS, GMM, PMG, and VECM approaches, diagnostic assessment, and interpretation of empirical results.\n\n\nPublic debt and economic growth in Nigeria\nTools: EViews · Approach: time-series analysis\nPrepared Nigerian macroeconomic data, estimated an ARDL model with bounds testing, and interpreted short-run and long-run relationships."
+  },
+  {
+    "objectID": "research.html#research-support",
+    "href": "research.html#research-support",
+    "title": "Research",
+    "section": "Research support",
+    "text": "Research support\nDuring my time at Lagos State University, I contributed to 25 undergraduate research projects through literature review, design, collection, analysis, interpretation, and policy recommendations. These were support contributions, rather than a claim of 25 independently authored papers."
+  },
+  {
+    "objectID": "research.html#ongoing-directions",
+    "href": "research.html#ongoing-directions",
+    "title": "Research",
+    "section": "Ongoing directions",
+    "text": "Ongoing directions\n\nNigeria GHS Panel harmonisation\nHealthcare spending and malaria outcomes in Sub-Saharan Africa\n\nDiscuss research opportunities"
+  },
+  {
+    "objectID": "projects/malaria-health-spending.html",
+    "href": "projects/malaria-health-spending.html",
+    "title": "Healthcare Spending & Malaria Outcomes",
+    "section": "",
+    "text": "Health economics Work in progress"
+  },
+  {
+    "objectID": "projects/malaria-health-spending.html#research-direction",
+    "href": "projects/malaria-health-spending.html#research-direction",
+    "title": "Healthcare Spending & Malaria Outcomes",
+    "section": "Research direction",
+    "text": "Research direction\nHow does healthcare spending relate to malaria incidence and broader health outcomes across selected Sub-Saharan African countries?"
+  },
+  {
+    "objectID": "projects/malaria-health-spending.html#proposed-approach",
+    "href": "projects/malaria-health-spending.html#proposed-approach",
+    "title": "Healthcare Spending & Malaria Outcomes",
+    "section": "Proposed approach",
+    "text": "Proposed approach\nCountry-level panel analysis, descriptive statistics, diagnostic checks, and investigation of whether relationships differ across the outcome distribution or spending levels."
+  },
+  {
+    "objectID": "projects/malaria-health-spending.html#publication-status",
+    "href": "projects/malaria-health-spending.html#publication-status",
+    "title": "Healthcare Spending & Malaria Outcomes",
+    "section": "Publication status",
+    "text": "Publication status\nThis page describes ongoing research interests. A final sample, paper, code, and empirical findings are not yet published here. No causal or numerical result is claimed on this page.\nView research experience"
+  },
+  {
+    "objectID": "projects/bank-marketing.html",
+    "href": "projects/bank-marketing.html",
+    "title": "Bank Marketing: Smarter Campaign Targeting",
+    "section": "",
+    "text": "Python Classification Completed notebook"
+  },
+  {
+    "objectID": "projects/bank-marketing.html#lift-in-the-top-10",
+    "href": "projects/bank-marketing.html#lift-in-the-top-10",
+    "title": "Bank Marketing: Smarter Campaign Targeting",
+    "section": "4.47× lift in the top 10%",
+    "text": "4.47× lift in the top 10%\nThe highest-scoring 10% of historical test records contained approximately 45% of all subscribers. The practical question: how could a bank prioritise a limited campaign budget?\nDownload the analysis notebook"
+  },
+  {
+    "objectID": "projects/bank-marketing.html#question-and-data",
+    "href": "projects/bank-marketing.html#question-and-data",
+    "title": "Bank Marketing: Smarter Campaign Targeting",
+    "section": "Question and data",
+    "text": "Question and data\nCan customer information, campaign history, and economic indicators help identify records more likely to correspond to a term-deposit subscription?\nThe analysis uses UCI Bank Marketing, specifically bank-additional-full.csv: 41,188 records, 20 input variables, and a binary subscription target. The data comes from a Portuguese banking institution’s campaigns between May 2008 and November 2010.\nDataset and documentation"
+  },
+  {
+    "objectID": "projects/bank-marketing.html#preparing-the-evidence",
+    "href": "projects/bank-marketing.html#preparing-the-evidence",
+    "title": "Bank Marketing: Smarter Campaign Targeting",
+    "section": "Preparing the evidence",
+    "text": "Preparing the evidence\n\nRemoved 12 exact duplicate copies, leaving 41,176 records. Without customer IDs, identical rows cannot be proven to represent the same individual.\nRetained unknown as a categorical value rather than deleting large numbers of observations.\nReplaced the special pdays = 999 code with a separate previous-contact indicator and a zero placeholder for days.\nExcluded call duration, which is unavailable before a call and would make targeting results unrealistic.\n\nOnly 11.27% of remaining records were subscribers. Accuracy alone would therefore reward a model that mostly predicts non-subscription.\n\n\n\nSubscription counts: the target is heavily imbalanced."
+  },
+  {
+    "objectID": "projects/bank-marketing.html#modelling-and-evaluation",
+    "href": "projects/bank-marketing.html#modelling-and-evaluation",
+    "title": "Bank Marketing: Smarter Campaign Targeting",
+    "section": "Modelling and evaluation",
+    "text": "Modelling and evaluation\nA stratified random split produced 26,352 training, 6,588 validation, and 8,236 test records: approximately 64%, 16%, and 20% of the cleaned data.\nI compared a majority-class baseline, logistic regression, decision trees, and random forests, including class-weighted variants. Numerical scaling was fitted on training data. Model selection and threshold tuning used validation data.\nBalanced logistic regression was selected for the recall/F1 trade-off. A threshold of 0.64 maximised validation F1 within the tested range. The model and preprocessing were then refitted on the 80% development set before final holdout evaluation."
+  },
+  {
+    "objectID": "projects/bank-marketing.html#historical-holdout-results",
+    "href": "projects/bank-marketing.html#historical-holdout-results",
+    "title": "Bank Marketing: Smarter Campaign Targeting",
+    "section": "Historical holdout results",
+    "text": "Historical holdout results\n\n\n\nMetric\nFinal model\n\n\n\n\nAccuracy\n86.5%\n\n\nPrecision\n43.0%\n\n\nRecall\n60.5%\n\n\nF1\n0.502\n\n\nROC-AUC\n0.800\n\n\nAverage precision\n0.447\n\n\n\nThe notebook labels average precision as “PR-AUC”; the reported value is calculated with average_precision_score.\nThe confusion matrix contains 561 true positives, 744 false positives, 367 false negatives, and 6,564 true negatives. At the selected threshold, the model identified about 60% of subscribers, with about 43% of positive predictions corresponding to subscribers."
+  },
+  {
+    "objectID": "projects/bank-marketing.html#ranking-for-a-limited-call-budget",
+    "href": "projects/bank-marketing.html#ranking-for-a-limited-call-budget",
+    "title": "Bank Marketing: Smarter Campaign Targeting",
+    "section": "Ranking for a limited call budget",
+    "text": "Ranking for a limited call budget\n\n\n\n\n\n\n\n\n\nHighest-scoring share\nTest records selected\nSubscribers captured\nLift versus random selection\n\n\n\n\n10%\n824\n44.7%\n4.470×\n\n\n20%\n1,648\n64.4%\n3.220×\n\n\n30%\n2,471\n73.1%\n2.435×\n\n\n\nSelecting the top 10% concentrated subscribers at roughly 50%, compared with an overall test subscription rate of approximately 11.3%. This is a retrospective ranking result, not a demonstrated increase in campaign revenue or a guaranteed future conversion rate."
+  },
+  {
+    "objectID": "projects/bank-marketing.html#findings-and-interpretation",
+    "href": "projects/bank-marketing.html#findings-and-interpretation",
+    "title": "Bank Marketing: Smarter Campaign Targeting",
+    "section": "Findings and interpretation",
+    "text": "Findings and interpretation\nPrevious campaign history was a useful signal. Students and retired customers showed higher observed subscription rates than several other occupation groups, although group sizes differed. Contact channel, frequency, campaign timing, and economic conditions also contributed information.\n\n\n\nObserved subscription rates by occupation; these are descriptive associations.\n\n\nThese are predictive and descriptive relationships. They do not establish that changing occupation, contact channel, or call frequency would cause higher subscription."
+  },
+  {
+    "objectID": "projects/bank-marketing.html#limitations-and-next-steps",
+    "href": "projects/bank-marketing.html#limitations-and-next-steps",
+    "title": "Bank Marketing: Smarter Campaign Targeting",
+    "section": "Limitations and next steps",
+    "text": "Limitations and next steps\n\nPrediction timing: removing duration addresses one major leakage risk. A strict pre-campaign model still needs an availability audit: campaign includes the current contact, and contact timing/channel must be known or planned at scoring time.\nTime: the random split mixes historical periods. A chronological evaluation is needed to assess generalisation to later campaigns.\nEncoding: dummy encoding was performed separately and aligned to training columns. A fitted encoder and pipeline would make reference categories and handling of unseen categories more robust.\nCalibration: class-weighted model scores should not automatically be read as real-world probabilities. The 0.64 cutoff is a decision threshold, not a guaranteed 64% likelihood.\nBusiness value: call costs, deposit value, uncertainty, and prospective testing are needed before recommending deployment.\nScope: these are older records from one banking setting. Results have not been validated on current or Nigerian banking data."
+  },
+  {
+    "objectID": "projects/bank-marketing.html#reproduce-the-analysis",
+    "href": "projects/bank-marketing.html#reproduce-the-analysis",
+    "title": "Bank Marketing: Smarter Campaign Targeting",
+    "section": "Reproduce the analysis",
+    "text": "Reproduce the analysis\nDownload the notebook and obtain bank-additional-full.csv from the UCI dataset. Put the CSV beside the notebook. The analysis uses Python, Pandas, NumPy, Matplotlib, scikit-learn, and Jupyter.\nThe metrics above are transcribed from the supplied notebook’s saved outputs. They have not been independently rerun for this website. The original notebook is provided unchanged.\nNotebook · Dataset · My GitHub profile"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Turning data into useful decisions.",
+    "section": "",
+    "text": "Economics × Data × Research\n\n\n\nI’m Malik, an Economics graduate based in Lagos. I use Python, econometrics, and careful analysis to investigate business and development questions and explain what the evidence means.\n\n\nExplore my work Download my CV\n\n\nBSc Economics, Lagos State University · CGPA 4.35/5.00\n\n\n\n\n\n\nKolade Malik IsholaEconomics graduate · Data analytics · Applied research\n*Experience figures reported in my CV. Model results describe historical holdout data."
+  },
+  {
+    "objectID": "index.html#selected-work",
+    "href": "index.html#selected-work",
+    "title": "Turning data into useful decisions.",
+    "section": "Selected work",
+    "text": "Selected work\n\n\nMachine learning Case study\n\nSmarter bank campaign targeting\nThe highest-scoring 10% of test records contained about 45% of subscribers. A classification study built around campaign capacity, class imbalance, and honest evaluation.\nRead the case study →\n\n\n\nBusiness operations Experience\n\nSales costing & reconciliation\nAt ALFA STORE, I developed a digital tool to reduce repetitive sales calculations and support daily reconciliation, reporting an approximately 80% reduction in calculation time.\nRead the experience summary →\n\n\n\nApplied economics Research\n\nHealthcare spending & household welfare\nResearch using household survey data, Python, and Stata to examine out-of-pocket healthcare expenditure and household welfare in Nigeria.\nExplore my research →"
+  },
+  {
+    "objectID": "index.html#a-quantitative-foundation.-a-practical-focus.",
+    "href": "index.html#a-quantitative-foundation.-a-practical-focus.",
+    "title": "Turning data into useful decisions.",
+    "section": "A quantitative foundation. A practical focus.",
+    "text": "A quantitative foundation. A practical focus.\nMy experience spans economic research, sales records, workflow improvement, and academic mentorship. I bring that context to data work: start with a useful question, validate the data, and make the result understandable.\nTools: Python · Pandas · NumPy · SQL/MySQL · Excel · Stata · EViews · R\nMore about my background"
+  },
+  {
+    "objectID": "index.html#lets-work-together",
+    "href": "index.html#lets-work-together",
+    "title": "Turning data into useful decisions.",
+    "section": "Let’s work together",
+    "text": "Let’s work together\nI’m interested in data analytics, quantitative research, business analysis, and graduate opportunities.\nGet in touch"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "I’m open to data analytics, quantitative research, business analysis, graduate opportunities, and collaborative projects.\n\n\n\ntheonlykolademalik@gmail.com\n\n\n\nNicholasmile\n\n\n\nLagos, Nigeria · UTC+1\n\n\nDownload my CV"
+  },
+  {
+    "objectID": "contact.html#lets-talk.",
+    "href": "contact.html#lets-talk.",
+    "title": "Contact",
+    "section": "",
+    "text": "I’m open to data analytics, quantitative research, business analysis, graduate opportunities, and collaborative projects.\n\n\n\ntheonlykolademalik@gmail.com\n\n\n\nNicholasmile\n\n\n\nLagos, Nigeria · UTC+1\n\n\nDownload my CV"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "I’m MALIK, an Economics graduate from Lagos State University (2021–2025) with a 4.35/5.00 CGPA. Based in Lagos, Nigeria, I’m developing a career in data analytics and quantitative research.\nMy experience connects research with everyday operations. At ALFA STORE, I maintained sales records and developed a digital costing and reconciliation tool. Through university research support, I contributed to literature reviews, research design, data analysis, and interpretation across 25 undergraduate projects."
+  },
+  {
+    "objectID": "about.html#economics-evidence-and-practical-problem-solving",
+    "href": "about.html#economics-evidence-and-practical-problem-solving",
+    "title": "About",
+    "section": "",
+    "text": "I’m MALIK, an Economics graduate from Lagos State University (2021–2025) with a 4.35/5.00 CGPA. Based in Lagos, Nigeria, I’m developing a career in data analytics and quantitative research.\nMy experience connects research with everyday operations. At ALFA STORE, I maintained sales records and developed a digital costing and reconciliation tool. Through university research support, I contributed to literature reviews, research design, data analysis, and interpretation across 25 undergraduate projects."
+  },
+  {
+    "objectID": "about.html#how-i-work",
+    "href": "about.html#how-i-work",
+    "title": "About",
+    "section": "How I work",
+    "text": "How I work\n\n\nStart with the decision\nDefine the question, who needs the answer, and what action the analysis could inform.\n\n\nCheck the evidence\nInspect identifiers, missing values, definitions, and modelling assumptions before interpreting results.\n\n\nExplain the result\nCommunicate findings alongside limitations and practical implications."
+  },
+  {
+    "objectID": "about.html#experience-beyond-the-notebook",
+    "href": "about.html#experience-beyond-the-notebook",
+    "title": "About",
+    "section": "Experience beyond the notebook",
+    "text": "Experience beyond the notebook\n\nSales and Records Assistant, ALFA STORE (2021–2026, seasonal): sales records, transaction reconciliation, inventory tracking, and process improvement.\nAcademic Mentor and Tutor, Afkindemy (2019–present): admission preparation, academic planning, and individual guidance for 10+ students annually.\nUniversity leadership and research support, LASU (2021–2025): represented 170+ students and organised 15+ academic tutorials per semester.\nTeacher and Academic Mentor, Private Education (2019–2022): managed a class of 25 pupils and provided targeted learning support."
+  },
+  {
+    "objectID": "about.html#toolkit-and-learning",
+    "href": "about.html#toolkit-and-learning",
+    "title": "About",
+    "section": "Toolkit and learning",
+    "text": "Toolkit and learning\nData: Python, Pandas, NumPy, SQL/MySQL, Excel\nEconometrics: Stata, EViews, R, panel and time-series analysis\nCurrent development: applied data science training at TS Academy (2026–present), including machine learning, statistical modelling, and data pipelines.\nView my CV"
+  },
+  {
+    "objectID": "articles.html",
+    "href": "articles.html",
+    "title": "Notes",
+    "section": "",
+    "text": "Lessons from my analysis and research workflow."
+  },
+  {
+    "objectID": "articles.html#why-high-accuracy-can-hide-a-weak-marketing-model",
+    "href": "articles.html#why-high-accuracy-can-hide-a-weak-marketing-model",
+    "title": "Notes",
+    "section": "Why high accuracy can hide a weak marketing model",
+    "text": "Why high accuracy can hide a weak marketing model\nIn my Bank Marketing analysis, only about 11.3% of records were subscribers. A baseline that always predicted “no” achieved roughly 88.7% validation accuracy while identifying no subscribers.\nThat changed how I evaluated success. I compared precision, recall, F1, ROC-AUC, and average precision, then tested how many subscribers appeared in the highest-scoring customer groups. The final ranking placed about 45% of test-set subscribers in the top 10% of records.\nThe lesson: choose metrics that reflect the decision. For a team with limited call capacity, the concentration of subscribers near the top of a ranking can be more informative than overall accuracy.\nRead the analysis and its limitations"
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
+    "section": "",
+    "text": "Economics graduate · Data analytics · Research and business operations\nLagos, Nigeria · Email · GitHub\nDownload my full CV"
+  },
+  {
+    "objectID": "cv.html#kolade-malik-ishola",
+    "href": "cv.html#kolade-malik-ishola",
+    "title": "CV",
+    "section": "",
+    "text": "Economics graduate · Data analytics · Research and business operations\nLagos, Nigeria · Email · GitHub\nDownload my full CV"
+  },
+  {
+    "objectID": "cv.html#profile",
+    "href": "cv.html#profile",
+    "title": "CV",
+    "section": "Profile",
+    "text": "Profile\nEconomics graduate with a 4.35/5.00 CGPA and experience in quantitative research, data analysis, business operations, customer-facing sales support, record management, and academic mentorship."
+  },
+  {
+    "objectID": "cv.html#education-and-development",
+    "href": "cv.html#education-and-development",
+    "title": "CV",
+    "section": "Education and development",
+    "text": "Education and development\nBSc Economics, Lagos State University · 2021–2025\nCGPA: 4.35/5.00. Coursework included econometrics, mathematical economics, macroeconomics, microeconomics, and quantitative methods.\nApplied data science training, TS Academy · 2026–present\nPython, Pandas, NumPy, machine learning, statistical modelling, data analysis, and data pipelines."
+  },
+  {
+    "objectID": "cv.html#experience",
+    "href": "cv.html#experience",
+    "title": "CV",
+    "section": "Experience",
+    "text": "Experience\n\nSales and Records Assistant · ALFA STORE\n2021–2026 · Seasonal\n\nMaintained sales, collections, returns, quantity, and cost records for daily reconciliation.\nSupported transactions, inventory tracking, cost calculations, and operational problem-solving.\nDeveloped a digital costing and reconciliation tool, reporting approximately 80% less calculation time.\n\n\n\nAcademic Mentor and Tutor · Afkindemy\n2019–present\n\nMentor 10+ students annually through admission preparation and academic planning.\nTeach Mathematics, Economics, Government, and related coursework.\nGuided 20+ students into competitive courses at federal universities and supported 15+ students in achieving JAMB scores above 250.\n\n\n\nTeacher and Academic Mentor · Private Education\n2019–2022\n\nManaged a class of 25 pupils and adapted lessons to varied learning needs.\nMonitored progress and provided targeted feedback and academic support.\n\n\n\nUniversity Leadership and Research Support · Lagos State University\n2021–2025\n\nRepresented 170+ students in academic and welfare discussions.\nContributed to 25 undergraduate research projects.\nOrganised 15+ academic tutorials per semester and supported academic committees and orientation programmes."
+  },
+  {
+    "objectID": "cv.html#selected-work",
+    "href": "cv.html#selected-work",
+    "title": "CV",
+    "section": "Selected work",
+    "text": "Selected work\n\nBank Marketing Campaign Prediction: historical test ROC-AUC of 0.800 and top-decile lift of 4.47×.\nSales Costing & Reconciliation: practical workflow improvement at ALFA STORE.\nEconomic research: household welfare, green finance, and public debt."
+  },
+  {
+    "objectID": "cv.html#skills",
+    "href": "cv.html#skills",
+    "title": "CV",
+    "section": "Skills",
+    "text": "Skills\nAnalysis: Python, Pandas, NumPy, SQL/MySQL, Excel\nEconometrics: Stata, EViews, R, panel data and time-series methods\nResearch: literature review, data validation, variable construction, interpretation, and reporting\nProfessional: communication, mentorship, attention to detail, teamwork, and time management"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Selected analysis and practical experience, with project status and available materials made explicit."
+  },
+  {
+    "objectID": "projects.html#work-in-progress",
+    "href": "projects.html#work-in-progress",
+    "title": "Projects",
+    "section": "Work in progress",
+    "text": "Work in progress\nThese pages describe ongoing project directions; final results and supporting materials are not yet published.\n\nNigeria GHS Panel harmonisation: cross-wave survey preparation and validation.\nHealthcare spending and malaria outcomes: a panel-data research direction for Sub-Saharan Africa."
+  },
+  {
+    "objectID": "projects/ghs-panel.html",
+    "href": "projects/ghs-panel.html",
+    "title": "Nigeria GHS Panel Harmonisation",
+    "section": "",
+    "text": "Survey data Work in progress"
+  },
+  {
+    "objectID": "projects/ghs-panel.html#project-direction",
+    "href": "projects/ghs-panel.html#project-direction",
+    "title": "Nigeria GHS Panel Harmonisation",
+    "section": "Project direction",
+    "text": "Project direction\nThis project focuses on preparing multiple waves of Nigeria’s General Household Survey Panel for analysis of household welfare, agriculture, health, education, and digital inclusion."
+  },
+  {
+    "objectID": "projects/ghs-panel.html#planned-analytical-workflow",
+    "href": "projects/ghs-panel.html#planned-analytical-workflow",
+    "title": "Nigeria GHS Panel Harmonisation",
+    "section": "Planned analytical workflow",
+    "text": "Planned analytical workflow\n\nInventory files and modules by wave.\nIdentify household, individual, plot, and community keys.\nCheck duplicates, missingness, and identifier integrity.\nMap variables across waves and assess conceptual comparability.\nDocument units, reference periods, and population definitions.\nBuild validated analysis-ready tables."
+  },
+  {
+    "objectID": "projects/ghs-panel.html#publication-status",
+    "href": "projects/ghs-panel.html#publication-status",
+    "title": "Nigeria GHS Panel Harmonisation",
+    "section": "Publication status",
+    "text": "Publication status\nThis page outlines a project direction. Final harmonised data, validation results, and code are not yet published here.\nView available research summaries"
+  },
+  {
+    "objectID": "projects/sales-reconciliation.html",
+    "href": "projects/sales-reconciliation.html",
+    "title": "Sales Costing & Reconciliation",
+    "section": "",
+    "text": "Business operations Experience summary"
+  },
+  {
+    "objectID": "projects/sales-reconciliation.html#the-operational-problem",
+    "href": "projects/sales-reconciliation.html#the-operational-problem",
+    "title": "Sales Costing & Reconciliation",
+    "section": "The operational problem",
+    "text": "The operational problem\nDuring seasonal work as a Sales and Records Assistant at ALFA STORE (2021–2026), I maintained records covering beverage sales, customer collections, returned goods, quantities, and costs. These records supported daily reconciliation.\nManual sales calculations created repetitive work. I identified the inefficiency and developed a digital costing and reconciliation tool to support the workflow."
+  },
+  {
+    "objectID": "projects/sales-reconciliation.html#reported-outcome",
+    "href": "projects/sales-reconciliation.html#reported-outcome",
+    "title": "Sales Costing & Reconciliation",
+    "section": "Reported outcome",
+    "text": "Reported outcome\nMy CV records an approximately 80% reduction in sales calculation time. This is a reported workplace achievement; timing measurements and a public demonstration are not included here."
+  },
+  {
+    "objectID": "projects/sales-reconciliation.html#my-contribution",
+    "href": "projects/sales-reconciliation.html#my-contribution",
+    "title": "Sales Costing & Reconciliation",
+    "section": "My contribution",
+    "text": "My contribution\n\nMaintained transaction and inventory records.\nSupported cost calculations and daily reconciliation.\nIdentified a repetitive manual process and developed a digital tool to improve it."
+  },
+  {
+    "objectID": "projects/sales-reconciliation.html#what-this-demonstrates",
+    "href": "projects/sales-reconciliation.html#what-this-demonstrates",
+    "title": "Sales Costing & Reconciliation",
+    "section": "What this demonstrates",
+    "text": "What this demonstrates\nPractical problem framing, record accuracy, process improvement, and connecting a technical solution to everyday business work.\nView my experience"
+  }
+]
