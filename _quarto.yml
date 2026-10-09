@@ -1,0 +1,52 @@
+project:
+  type: website
+  output-dir: _site
+  render:
+    - "*.qmd"
+    - "projects/*.qmd"
+    - "!projects/project-template.qmd"
+  resources:
+    - assets/**
+website:
+  site-url: "https://nicholasmile.github.io/malik_kolade.github.io/"
+  title: "Malik Ishola"
+  description: "Kolade Malik Ishola — economics, data analytics, machine learning, and applied research."
+  navbar:
+    background: light
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About
+      - href: projects.qmd
+        text: Projects
+      - href: research.qmd
+        text: Research
+      - href: articles.qmd
+        text: Notes
+      - href: cv.qmd
+        text: CV
+      - href: contact.qmd
+        text: Contact
+    right:
+      - icon: github
+        href: https://github.com/Nicholasmile
+        aria-label: GitHub profile
+      - icon: envelope
+        href: mailto:theonlykolademalik@gmail.com
+        aria-label: Email Malik
+  page-footer:
+    left: "© 2026 Kolade Malik Ishola"
+    right: "Economics · Data · Research"
+  search: true
+  back-to-top-navigation: true
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+    page-layout: full
+    smooth-scroll: true
+    link-external-newwindow: true
+execute:
+  freeze: auto

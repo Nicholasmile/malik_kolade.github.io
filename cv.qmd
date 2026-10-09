@@ -1,0 +1,65 @@
+---
+title: "CV"
+---
+
+
+## Kolade Malik Ishola
+
+**Economics graduate · Data analytics · Research and business operations**  
+Lagos, Nigeria · [Email](mailto:theonlykolademalik@gmail.com) · [GitHub](https://github.com/Nicholasmile)
+
+[Download my full CV](assets/Malik_Kolade_CV.pdf){.btn-primary-custom download="Malik_Kolade_CV.pdf"}
+
+## Profile
+
+Economics graduate with a 4.35/5.00 CGPA and experience in quantitative research, data analysis, business operations, customer-facing sales support, record management, and academic mentorship.
+
+## Education and development
+
+**BSc Economics, Lagos State University · 2021–2025**  
+CGPA: **4.35/5.00**. Coursework included econometrics, mathematical economics, macroeconomics, microeconomics, and quantitative methods.
+
+**Applied data science training, TS Academy · 2026–present**  
+Python, Pandas, NumPy, machine learning, statistical modelling, data analysis, and data pipelines.
+
+## Experience
+
+### Sales and Records Assistant · ALFA STORE
+**2021–2026 · Seasonal**
+
+- Maintained sales, collections, returns, quantity, and cost records for daily reconciliation.
+- Supported transactions, inventory tracking, cost calculations, and operational problem-solving.
+- Developed a digital costing and reconciliation tool, reporting approximately 80% less calculation time.
+
+### Academic Mentor and Tutor · Afkindemy
+**2019–present**
+
+- Mentor 10+ students annually through admission preparation and academic planning.
+- Teach Mathematics, Economics, Government, and related coursework.
+- Guided 20+ students into competitive courses at federal universities and supported 15+ students in achieving JAMB scores above 250.
+
+### Teacher and Academic Mentor · Private Education
+**2019–2022**
+
+- Managed a class of 25 pupils and adapted lessons to varied learning needs.
+- Monitored progress and provided targeted feedback and academic support.
+
+### University Leadership and Research Support · Lagos State University
+**2021–2025**
+
+- Represented 170+ students in academic and welfare discussions.
+- Contributed to 25 undergraduate research projects.
+- Organised 15+ academic tutorials per semester and supported academic committees and orientation programmes.
+
+## Selected work
+
+- [Bank Marketing Campaign Prediction](projects/bank-marketing.qmd): historical test ROC-AUC of 0.800 and top-decile lift of 4.47×.
+- [Sales Costing & Reconciliation](projects/sales-reconciliation.qmd): practical workflow improvement at ALFA STORE.
+- [Economic research](research.qmd): household welfare, green finance, and public debt.
+
+## Skills
+
+**Analysis:** Python, Pandas, NumPy, SQL/MySQL, Excel  
+**Econometrics:** Stata, EViews, R, panel data and time-series methods  
+**Research:** literature review, data validation, variable construction, interpretation, and reporting  
+**Professional:** communication, mentorship, attention to detail, teamwork, and time management

@@ -1,0 +1,25 @@
+---
+title: "Nigeria GHS Panel Harmonisation"
+---
+
+
+<span class="tag">Survey data</span> <span class="tag">Work in progress</span>
+
+## Project direction
+
+This project focuses on preparing multiple waves of Nigeria’s General Household Survey Panel for analysis of household welfare, agriculture, health, education, and digital inclusion.
+
+## Planned analytical workflow
+
+1. Inventory files and modules by wave.
+2. Identify household, individual, plot, and community keys.
+3. Check duplicates, missingness, and identifier integrity.
+4. Map variables across waves and assess conceptual comparability.
+5. Document units, reference periods, and population definitions.
+6. Build validated analysis-ready tables.
+
+## Publication status
+
+This page outlines a project direction. Final harmonised data, validation results, and code are not yet published here.
+
+[View available research summaries](../research.qmd){.project-link}

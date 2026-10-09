@@ -1,0 +1,36 @@
+---
+title: "Research"
+---
+
+
+<p class="section-intro">Applied economics work spanning household welfare, finance, and macroeconomic relationships.</p>
+
+## Selected research experience
+
+The following summaries reflect projects listed in my CV. Papers, datasets, and numerical results are not yet published here.
+
+### Out-of-pocket healthcare expenditure and household welfare in Nigeria
+**Tools:** Python and Stata · **Data:** household survey data
+
+Conducted quantitative research involving data sourcing, cleaning, variable construction, analysis, interpretation, and reporting. Examined the relationship between healthcare expenditure and household welfare and translated statistical evidence into policy-relevant findings.
+
+### Green finance and technological innovation
+**Tools:** EViews and Stata · **Scope:** ECOWAS panel study
+
+Sourced, restructured, cleaned, and validated multi-country data. The project involved ARDL, DOLS, GMM, PMG, and VECM approaches, diagnostic assessment, and interpretation of empirical results.
+
+### Public debt and economic growth in Nigeria
+**Tools:** EViews · **Approach:** time-series analysis
+
+Prepared Nigerian macroeconomic data, estimated an ARDL model with bounds testing, and interpreted short-run and long-run relationships.
+
+## Research support
+
+During my time at Lagos State University, I contributed to 25 undergraduate research projects through literature review, design, collection, analysis, interpretation, and policy recommendations. These were support contributions, rather than a claim of 25 independently authored papers.
+
+## Ongoing directions
+
+- [Nigeria GHS Panel harmonisation](projects/ghs-panel.qmd)
+- [Healthcare spending and malaria outcomes in Sub-Saharan Africa](projects/malaria-health-spending.qmd)
+
+[Discuss research opportunities](contact.qmd){.btn-secondary-custom}

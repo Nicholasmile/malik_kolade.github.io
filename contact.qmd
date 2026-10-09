@@ -1,0 +1,25 @@
+---
+title: "Contact"
+---
+
+
+## Let’s talk.
+
+I’m open to data analytics, quantitative research, business analysis, graduate opportunities, and collaborative projects.
+
+::: {.card-grid}
+::: {.info-card}
+### Email
+[theonlykolademalik@gmail.com](mailto:theonlykolademalik@gmail.com)
+:::
+::: {.info-card}
+### GitHub
+[Nicholasmile](https://github.com/Nicholasmile)
+:::
+::: {.info-card}
+### Location
+Lagos, Nigeria · UTC+1
+:::
+:::
+
+[Download my CV](assets/Malik_Kolade_CV.pdf){.btn-secondary-custom}

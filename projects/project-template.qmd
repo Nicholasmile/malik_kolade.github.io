@@ -1,0 +1,51 @@
+---
+title: "Project Title"
+description: "One-sentence project description."
+---
+
+::: {.project-meta}
+<span class="tag">Skill</span>
+<span class="tag">Industry</span>
+<span class="tag">Method</span>
+:::
+
+## Problem
+
+What real business, economic, research, or operational question are you solving?
+
+## Why it matters
+
+Who would care about the answer and what decision could change because of it?
+
+## Data
+
+- **Source:**
+- **Rows / observations:**
+- **Target / outcome:**
+- **Important limitations:**
+
+## Approach
+
+1. Data collection / loading
+2. Cleaning and validation
+3. Exploratory analysis
+4. Feature engineering or transformations
+5. Modelling / statistical analysis
+6. Evaluation / diagnostics
+7. Interpretation
+
+## Key findings
+
+Put the 3–5 findings that matter most here.
+
+## Decision / recommendation
+
+Explain what a stakeholder should do with the result.
+
+## Limitations and next steps
+
+Document what the analysis cannot establish and what you would improve with more time or better data.
+
+## Links
+
+[GitHub repository](https://github.com/YOUR-USERNAME/YOUR-REPOSITORY){.btn-primary-custom}

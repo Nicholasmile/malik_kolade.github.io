@@ -1,0 +1,42 @@
+---
+title: "About"
+---
+
+
+## Economics, evidence, and practical problem-solving
+
+I’m **MALIK**, an Economics graduate from **Lagos State University (2021–2025)** with a **4.35/5.00 CGPA**. Based in Lagos, Nigeria, I’m developing a career in data analytics and quantitative research.
+
+My experience connects research with everyday operations. At ALFA STORE, I maintained sales records and developed a digital costing and reconciliation tool. Through university research support, I contributed to literature reviews, research design, data analysis, and interpretation across 25 undergraduate projects.
+
+## How I work
+
+::: {.card-grid}
+::: {.info-card}
+### Start with the decision
+Define the question, who needs the answer, and what action the analysis could inform.
+:::
+::: {.info-card}
+### Check the evidence
+Inspect identifiers, missing values, definitions, and modelling assumptions before interpreting results.
+:::
+::: {.info-card}
+### Explain the result
+Communicate findings alongside limitations and practical implications.
+:::
+:::
+
+## Experience beyond the notebook
+
+- **Sales and Records Assistant, ALFA STORE (2021–2026, seasonal):** sales records, transaction reconciliation, inventory tracking, and process improvement.
+- **Academic Mentor and Tutor, Afkindemy (2019–present):** admission preparation, academic planning, and individual guidance for 10+ students annually.
+- **University leadership and research support, LASU (2021–2025):** represented 170+ students and organised 15+ academic tutorials per semester.
+- **Teacher and Academic Mentor, Private Education (2019–2022):** managed a class of 25 pupils and provided targeted learning support.
+
+## Toolkit and learning
+
+**Data:** Python, Pandas, NumPy, SQL/MySQL, Excel  
+**Econometrics:** Stata, EViews, R, panel and time-series analysis  
+**Current development:** applied data science training at TS Academy (2026–present), including machine learning, statistical modelling, and data pipelines.
+
+[View my CV](cv.qmd){.btn-primary-custom}

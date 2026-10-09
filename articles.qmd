@@ -1,0 +1,16 @@
+---
+title: "Notes"
+---
+
+
+<p class="section-intro">Lessons from my analysis and research workflow.</p>
+
+## Why high accuracy can hide a weak marketing model
+
+In my Bank Marketing analysis, only about 11.3% of records were subscribers. A baseline that always predicted “no” achieved roughly 88.7% validation accuracy while identifying no subscribers.
+
+That changed how I evaluated success. I compared precision, recall, F1, ROC-AUC, and average precision, then tested how many subscribers appeared in the highest-scoring customer groups. The final ranking placed about 45% of test-set subscribers in the top 10% of records.
+
+The lesson: choose metrics that reflect the decision. For a team with limited call capacity, the concentration of subscribers near the top of a ranking can be more informative than overall accuracy.
+
+[Read the analysis and its limitations](projects/bank-marketing.qmd){.project-link}

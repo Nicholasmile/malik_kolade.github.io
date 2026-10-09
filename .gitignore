@@ -1,0 +1,11 @@
+/.quarto/
+/_site/
+/.DS_Store
+Thumbs.db
+.ipynb_checkpoints/
+
+**/*.quarto_ipynb
+
+/tmp/
+/output/
+/Malik_Portfolio_Editing_Guide.pdf

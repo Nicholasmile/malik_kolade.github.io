@@ -1,0 +1,40 @@
+---
+title: "Projects"
+---
+
+
+<p class="section-intro">Selected analysis and practical experience, with project status and available materials made explicit.</p>
+
+::: {.card-grid}
+::: {.project-card}
+<span class="tag">Completed notebook</span> <span class="tag">Classification</span>
+
+### Bank Marketing Campaign Prediction
+Balanced logistic regression, validation-based threshold selection, and customer ranking. Historical test ROC-AUC: 0.800; top-decile lift: 4.47×.
+
+[Case study →](projects/bank-marketing.qmd){.project-link}
+:::
+::: {.project-card}
+<span class="tag">Experience summary</span> <span class="tag">Operations</span>
+
+### Sales Costing & Reconciliation
+A digital tool developed during seasonal work at ALFA STORE. Approximately 80% less time spent on sales calculations, as reported in my CV.
+
+[Experience summary →](projects/sales-reconciliation.qmd){.project-link}
+:::
+::: {.project-card}
+<span class="tag">Research summaries</span> <span class="tag">Econometrics</span>
+
+### Applied Economic Research
+Household healthcare expenditure, green finance in ECOWAS, and Nigerian public debt. Summaries of work listed in my CV.
+
+[Research overview →](research.qmd){.project-link}
+:::
+:::
+
+## Work in progress
+
+These pages describe ongoing project directions; final results and supporting materials are not yet published.
+
+- [Nigeria GHS Panel harmonisation](projects/ghs-panel.qmd): cross-wave survey preparation and validation.
+- [Healthcare spending and malaria outcomes](projects/malaria-health-spending.qmd): a panel-data research direction for Sub-Saharan Africa.

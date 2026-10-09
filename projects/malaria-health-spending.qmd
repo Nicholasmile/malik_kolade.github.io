@@ -1,0 +1,20 @@
+---
+title: "Healthcare Spending & Malaria Outcomes"
+---
+
+
+<span class="tag">Health economics</span> <span class="tag">Work in progress</span>
+
+## Research direction
+
+How does healthcare spending relate to malaria incidence and broader health outcomes across selected Sub-Saharan African countries?
+
+## Proposed approach
+
+Country-level panel analysis, descriptive statistics, diagnostic checks, and investigation of whether relationships differ across the outcome distribution or spending levels.
+
+## Publication status
+
+This page describes ongoing research interests. A final sample, paper, code, and empirical findings are not yet published here. No causal or numerical result is claimed on this page.
+
+[View research experience](../research.qmd){.project-link}

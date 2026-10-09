@@ -1,0 +1,94 @@
+---
+title: ""
+description: "Economics graduate using data and research to answer business and development questions."
+---
+
+
+::: {.hero}
+::: {.hero-copy}
+<span class="hero-kicker">Economics × Data × Research</span>
+
+# Turning data into useful decisions.
+
+<p class="lead">I’m Kolade Malik Ishola, an Economics graduate based in Lagos. I use Python, econometrics, and careful analysis to investigate business and development questions—and explain what the evidence means.</p>
+
+::: {.actions}
+[Explore my work](projects.qmd){.btn-primary-custom}
+[Download my CV](assets/Malik_Kolade_CV.pdf){.btn-secondary-custom download="Malik_Kolade_CV.pdf"}
+:::
+
+<p class="hero-footnote">BSc Economics, Lagos State University · CGPA 4.35/5.00</p>
+:::
+
+::: {.portrait-panel}
+<img src="assets/malik-ishola.jpg" class="profile-photo" alt="Kolade Malik Ishola wearing a black suit and tie" width="1234" height="1275" fetchpriority="high">
+
+<div class="portrait-caption">Kolade Malik Ishola<span>Economics graduate · Data analytics · Applied research</span></div>
+:::
+:::
+
+::: {.stat-strip}
+::: {.stat}
+**4.47× lift**
+<span>Bank Marketing holdout ranking</span>
+:::
+::: {.stat}
+**41,188 records**
+<span>Marketing dataset analysed</span>
+:::
+::: {.stat}
+**~80% less time**
+<span>Sales calculation improvement*</span>
+:::
+::: {.stat}
+**25 projects**
+<span>Undergraduate research supported*</span>
+:::
+:::
+
+<p class="metric-note">*Experience figures reported in my CV. Model results describe historical holdout data.</p>
+
+## Selected work
+
+::: {.card-grid}
+::: {.project-card}
+<span class="tag">Machine learning</span> <span class="tag">Case study</span>
+
+### Smarter bank campaign targeting
+The highest-scoring 10% of test records contained about 45% of subscribers. A classification study built around campaign capacity, class imbalance, and honest evaluation.
+
+[Read the case study →](projects/bank-marketing.qmd){.project-link}
+:::
+::: {.project-card}
+<span class="tag">Business operations</span> <span class="tag">Experience</span>
+
+### Sales costing & reconciliation
+At ALFA STORE, I developed a digital tool to reduce repetitive sales calculations and support daily reconciliation, reporting an approximately 80% reduction in calculation time.
+
+[Read the experience summary →](projects/sales-reconciliation.qmd){.project-link}
+:::
+::: {.project-card}
+<span class="tag">Applied economics</span> <span class="tag">Research</span>
+
+### Healthcare spending & household welfare
+Research using household survey data, Python, and Stata to examine out-of-pocket healthcare expenditure and household welfare in Nigeria.
+
+[Explore my research →](research.qmd){.project-link}
+:::
+:::
+
+::: {.feature-band}
+## A quantitative foundation. A practical focus.
+
+My experience spans economic research, sales records, workflow improvement, and academic mentorship. I bring that context to data work: start with a useful question, validate the data, and make the result understandable.
+
+**Tools:** Python · Pandas · NumPy · SQL/MySQL · Excel · Stata · EViews · R
+
+[More about my background](about.qmd){.project-link}
+:::
+
+## Let’s work together
+
+I’m interested in data analytics, quantitative research, business analysis, and graduate opportunities.
+
+[Get in touch](contact.qmd){.btn-primary-custom}

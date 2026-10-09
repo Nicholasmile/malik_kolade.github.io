@@ -1,0 +1,28 @@
+---
+title: "Sales Costing & Reconciliation"
+---
+
+
+<span class="tag">Business operations</span> <span class="tag">Experience summary</span>
+
+## The operational problem
+
+During seasonal work as a Sales and Records Assistant at **ALFA STORE (2021–2026)**, I maintained records covering beverage sales, customer collections, returned goods, quantities, and costs. These records supported daily reconciliation.
+
+Manual sales calculations created repetitive work. I identified the inefficiency and developed a digital costing and reconciliation tool to support the workflow.
+
+## Reported outcome
+
+My CV records an **approximately 80% reduction in sales calculation time**. This is a reported workplace achievement; timing measurements and a public demonstration are not included here.
+
+## My contribution
+
+- Maintained transaction and inventory records.
+- Supported cost calculations and daily reconciliation.
+- Identified a repetitive manual process and developed a digital tool to improve it.
+
+## What this demonstrates
+
+Practical problem framing, record accuracy, process improvement, and connecting a technical solution to everyday business work.
+
+[View my experience](../cv.qmd){.btn-secondary-custom}
