@@ -10,7 +10,7 @@ description: "Economics graduate using data and research to answer business and 
 
 # Turning data into useful decisions.
 
-<p class="lead">I’m Malik, an Economics graduate based in Lagos. I use Python, econometrics, and careful analysis to investigate business and development questions and explain what the evidence means.</p>
+<p class="lead">I’m Malik Kolade, an Economics graduate based in Lagos. I use Python, econometrics, and careful analysis to investigate business and development questions and explain what the evidence means.</p>
 
 ::: {.actions}
 [Explore my work](projects.qmd){.btn-primary-custom}
@@ -21,9 +21,9 @@ description: "Economics graduate using data and research to answer business and 
 :::
 
 ::: {.portrait-panel}
-<img src="assets/malik-ishola.jpg" class="profile-photo" alt="Kolade Malik Ishola wearing a black suit and tie" width="1234" height="1275" fetchpriority="high">
+<img src="assets/malik-ishola.jpg" class="profile-photo" alt="Malik Kolade wearing a black suit and tie" width="1234" height="1275" fetchpriority="high">
 
-<div class="portrait-caption">Kolade Malik Ishola<span>Economics graduate · Data analytics · Applied research</span></div>
+<div class="portrait-caption">Malik Kolade<span>Economics graduate · Data analytics · Applied research</span></div>
 :::
 :::
 
@@ -70,17 +70,17 @@ At ALFA STORE, I developed a digital tool to reduce repetitive sales calculation
 ::: {.project-card}
 <span class="tag">Applied economics</span> <span class="tag">Research</span>
 
-### Healthcare spending & household welfare
-Research using household survey data, Python, and Stata to examine out-of-pocket healthcare expenditure and household welfare in Nigeria.
+### Portfolio websites made easier
+A reusable website framework developed to help friends and colleagues who wanted a professional portfolio but could not code. Combines page layouts with practical editing guidance.
 
-[Explore my research →](research.qmd){.project-link}
+[Read the project story →](projects/reusable-portfolio.qmd){.project-link}
 :::
 :::
 
 ::: {.feature-band}
 ## A quantitative foundation. A practical focus.
 
-My experience spans economic research, sales records, workflow improvement, and academic mentorship. I bring that context to data work: start with a useful question, validate the data, and make the result understandable.
+I’m drawn to problems people encounter in everyday work: repetitive tasks, difficult processes, and information that needs to be clearer. My projects combine analysis, workflow improvement, and reusable tools with guidance that helps people use them.
 
 **Tools:** Python · Pandas · NumPy · SQL/MySQL · Excel · Stata · EViews · R
 

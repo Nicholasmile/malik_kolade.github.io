@@ -9,8 +9,8 @@ project:
     - assets/**
 website:
   site-url: "https://nicholasmile.github.io/malik_kolade.github.io/"
-  title: "Malik Ishola"
-  description: "Kolade Malik Ishola — economics, data analytics, machine learning, and applied research."
+  title: "Malik Kolade"
+  description: "Malik Ishola Kolade — economics, data analytics, machine learning, and applied research."
   navbar:
     background: light
     left:
@@ -36,7 +36,7 @@ website:
         href: mailto:theonlykolademalik@gmail.com
         aria-label: Email Malik
   page-footer:
-    left: "© 2026 Kolade Malik Ishola"
+    left: "© 2026 Malik Ishola Kolade"
     right: "Economics · Data · Research"
   search: true
   back-to-top-navigation: true

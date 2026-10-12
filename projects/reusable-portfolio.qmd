@@ -1,0 +1,50 @@
+---
+title: "Reusable Portfolio Website Framework"
+description: "Helping friends and colleagues present their work online with less dependence on coding."
+toc: true
+---
+
+<span class="tag">Web development</span> <span class="tag">Documentation</span> <span class="tag">Practical problem-solving</span>
+
+## The problem: wanting a portfolio, but not knowing how to build one
+
+Friends and colleagues wanted their own portfolio websites to present their skills, projects, and professional background. Many could not code or were uncomfortable with basic programming. Building a website from scratch presented a barrier to making their work visible.
+
+This project grew out of that need. I wanted to provide a reusable starting point that would reduce the amount of technical work required and make the process easier to understand.
+
+## My approach
+
+I developed a portfolio framework around a consistent set of pages: an introduction, biography, projects, research, notes, CV, and contact information. The structure gives users a place for their material before they have to make decisions about layout or navigation.
+
+The implementation uses **Quarto, Markdown, and CSS**. Content lives in editable source files, while the shared configuration and stylesheet provide navigation and a consistent appearance. A project template provides a repeatable structure for explaining the question, data, methods, findings, and limitations of new work.
+
+## Making reuse practical
+
+The project combines the website with guidance for maintaining it:
+
+- **Reusable page and project layouts:** a starting structure that can be personalised rather than built again from scratch.
+- **Responsive presentation:** layouts that adapt to desktop and smaller screens.
+- **Downloadable materials:** a place for a CV and supporting project files.
+- **An editing guide:** instructions for changing text, adding projects, replacing images, checking links, and previewing the site.
+- **A documented publishing workflow:** editable source and generated website files are kept separate, with deployment through GitHub Pages.
+
+The guide matters as much as the layout. Someone who receives a template also needs to know where their information goes and how to update it later.
+
+## My contribution
+
+I identified the need through friends and colleagues, shaped the content structure around their use case, supplied the initial portfolio materials, and refined the site and documentation through an iterative build. I used AI assistance for implementation and editing, while directing the project’s purpose and reviewing the result.
+
+## What the project demonstrates
+
+This work connects a real need with a practical implementation: listening to potential users, defining a repeatable structure, integrating content and presentation, documenting maintenance, and taking a website through deployment.
+
+My own portfolio provides a working example of the approach. The current outcome is a reusable foundation and an editing workflow; I have not measured adoption or time savings among other users.
+
+## Limits and next improvements
+
+The current framework reduces the need to write website code from scratch. It still requires guided editing of text files and some setup to publish. It is not yet a fully no-code editor.
+
+The next useful step is to observe a friend or colleague personalising a copy, record where they get stuck, and improve the instructions or editing experience. A guided form or visual editor could further reduce the technical steps, but those features are not part of the current implementation.
+
+[View the source repository](https://github.com/Nicholasmile/malik_kolade.github.io){.btn-primary-custom}
+[Read about my approach](../about.qmd){.btn-secondary-custom}

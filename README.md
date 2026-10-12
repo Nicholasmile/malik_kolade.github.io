@@ -1,6 +1,6 @@
-# Malik Ishola — Quarto Portfolio
+# Malik Kolade — Quarto Portfolio
 
-A personal portfolio for Kolade Malik Ishola, with a photograph, CV download, Bank Marketing case study, and research and experience summaries.
+A personal portfolio for Malik Ishola Kolade, with a photograph, CV download, Bank Marketing case study, and research and experience summaries.
 
 ## Preview and build
 

@@ -32,6 +32,19 @@ Household healthcare expenditure, green finance in ECOWAS, and Nigerian public d
 :::
 :::
 
+## Tools for practical problems
+
+::: {.card-grid}
+::: {.project-card}
+<span class="tag">Reusable framework</span> <span class="tag">Web development</span>
+
+### Reusable Portfolio Website Framework
+Built in response to friends and colleagues who wanted their own portfolio websites but could not code. A reusable structure, project layouts, and an editing guide reduce the work needed to get started.
+
+[Read the project story →](projects/reusable-portfolio.qmd){.project-link}
+:::
+:::
+
 ## Work in progress
 
 These pages describe ongoing project directions; final results and supporting materials are not yet published.
