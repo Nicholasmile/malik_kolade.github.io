@@ -2,30 +2,51 @@
   {
     "objectID": "research.html",
     "href": "research.html",
-    "title": "Research",
+    "title": "Research Experience",
     "section": "",
-    "text": "Applied economics work spanning household welfare, finance, and macroeconomic relationships."
+    "text": "My research experience has developed through undergraduate research assistance, academic projects, independent research work, and data-focused research activities.\nA major part of my experience involves supporting the practical stages of research: identifying appropriate data sources, sourcing credible datasets, preparing data for analysis, conducting statistical and econometric analysis, interpreting results, and supporting the documentation of findings.\nMy background in Economics provides a foundation in econometrics, statistics, quantitative research methods, macroeconomics, development economics, and public finance. I am increasingly combining this foundation with Data Science, programming, and reproducible research workflows."
   },
   {
-    "objectID": "research.html#selected-research-experience",
-    "href": "research.html#selected-research-experience",
-    "title": "Research",
-    "section": "Selected research experience",
-    "text": "Selected research experience\nThe following summaries reflect projects listed in my CV. Papers, datasets, and numerical results are not yet published here.\n\nOut-of-pocket healthcare expenditure and household welfare in Nigeria\nTools: Python and Stata · Data: household survey data\nConducted quantitative research involving data sourcing, cleaning, variable construction, analysis, interpretation, and reporting. Examined the relationship between healthcare expenditure and household welfare and translated statistical evidence into policy-relevant findings.\n\n\nGreen finance and technological innovation\nTools: EViews and Stata · Scope: ECOWAS panel study\nSourced, restructured, cleaned, and validated multi-country data. The project involved ARDL, DOLS, GMM, PMG, and VECM approaches, diagnostic assessment, and interpretation of empirical results.\n\n\nPublic debt and economic growth in Nigeria\nTools: EViews · Approach: time-series analysis\nPrepared Nigerian macroeconomic data, estimated an ARDL model with bounds testing, and interpreted short-run and long-run relationships."
+    "objectID": "research.html#undergraduate-research-assistance",
+    "href": "research.html#undergraduate-research-assistance",
+    "title": "Research Experience",
+    "section": "Undergraduate Research Assistance",
+    "text": "Undergraduate Research Assistance\nA significant area of my experience is supporting undergraduate and final-year researchers, particularly during the data and empirical stages of their projects. My work has included helping researchers move from a research question to appropriate data, a workable analytical approach, and results they can understand and explain.\n\n\nFinding appropriate data\n\nIdentify suitable datasets for research questions.\nSource secondary and publicly available data.\nFind credible data from national and international institutions.\n\n\n\nPreparing research datasets\n\nUnderstand variables, indicators, units, and data definitions.\nClean and restructure datasets.\nPrepare data for statistical and econometric analysis.\n\n\n\nSupporting analytical methods\n\nSupport the selection of appropriate methods.\nConduct descriptive and quantitative analysis.\nSupport econometric analysis.\n\n\n\nPresenting the evidence\n\nCreate research-ready tables and charts.\nPrepare analytical summaries.\nDocument findings and empirical outputs.\n\n\n\nInterpreting results\n\nInterpret statistical and econometric outputs.\nTranslate technical results into clear academic explanations.\nConnect findings to the research question and their limitations.\n\n\n\nGuiding the researcher\n\nSupport methodology and empirical documentation.\nHelp researchers understand their results.\nHelp them explain and defend their analysis.\n\n\n\nThis is research assistance, data and analytical support, and research guidance. My emphasis is on helping researchers understand the work and take ownership of their analysis."
   },
   {
-    "objectID": "research.html#research-support",
-    "href": "research.html#research-support",
-    "title": "Research",
-    "section": "Research support",
-    "text": "Research support\nDuring my time at Lagos State University, I contributed to 25 undergraduate research projects through literature review, design, collection, analysis, interpretation, and policy recommendations. These were support contributions, rather than a claim of 25 independently authored papers."
+    "objectID": "research.html#research-data-sourcing",
+    "href": "research.html#research-data-sourcing",
+    "title": "Research Experience",
+    "section": "Research Data Sourcing",
+    "text": "Research Data Sourcing\nOne of the areas in which I have developed particular experience is locating usable data for empirical research. Research ideas can be difficult to execute when researchers cannot identify suitable data, understand available indicators, or determine which institutions provide the information their study needs.\nI work with researchers to identify credible sources, understand available variables, evaluate whether a dataset fits the research question, and prepare the selected data for analysis.\nMy experience includes working with data made available by national statistical institutions, central banks, international development organisations, open-data platforms, research repositories, and other credible public sources."
   },
   {
-    "objectID": "research.html#ongoing-directions",
-    "href": "research.html#ongoing-directions",
-    "title": "Research",
-    "section": "Ongoing directions",
-    "text": "Ongoing directions\n\nNigeria GHS Panel harmonisation\nHealthcare spending and malaria outcomes in Sub-Saharan Africa\n\nDiscuss research opportunities"
+    "objectID": "research.html#research-analysis",
+    "href": "research.html#research-analysis",
+    "title": "Research Experience",
+    "section": "Research Analysis",
+    "text": "Research Analysis\nMy analytical work focuses on connecting the research question with the data and an appropriate quantitative method.\nDepending on the research, this may involve exploratory analysis, descriptive statistics, statistical testing, econometric modelling, data visualisation, interpretation of model outputs, and preparation of research-ready tables and results.\nI place particular emphasis on interpretation. Producing an output is one part of empirical research; the researcher should also understand what it means, how it relates to the question, and what conclusions can reasonably be drawn from it."
+  },
+  {
+    "objectID": "research.html#research-data-science-tools",
+    "href": "research.html#research-data-science-tools",
+    "title": "Research Experience",
+    "section": "Research & Data Science Tools",
+    "text": "Research & Data Science Tools\nMy research toolkit includes the following tools, used according to the task. I continue to develop my practical skills and combine programming with established econometric workflows.\n\nPython Pandas NumPy Matplotlib SQL Stata EViews Excel Jupyter"
+  },
+  {
+    "objectID": "research.html#research-workflows-in-practice",
+    "href": "research.html#research-workflows-in-practice",
+    "title": "Research Experience",
+    "section": "Research workflows in practice",
+    "text": "Research workflows in practice\nMy Economic Data Pipeline & Research Platform puts data sourcing and preparation into a browser-based workflow. It combines World Bank indicator retrieval, validation, coverage checks, source documentation, and CSV/Excel exports.\nThis is a software project supporting research workflows, rather than a research publication.\nRead the engineering case study"
+  },
+  {
+    "objectID": "research.html#my-research-approach",
+    "href": "research.html#my-research-approach",
+    "title": "Research Experience",
+    "section": "My Research Approach",
+    "text": "My Research Approach\nI approach research as a connected process involving the question, data source, variables, methodology, analysis, interpretation, and final conclusion.\nI am particularly interested in making quantitative research more understandable and reproducible, especially for undergraduate researchers encountering empirical research for the first time.\nMy current development brings together Economics, econometrics, Data Science, automation, and technology to improve how research data is discovered, prepared, analysed, interpreted, and documented.\nDiscuss research opportunities"
   },
   {
     "objectID": "projects/reusable-portfolio.html",
@@ -102,182 +123,7 @@
     "href": "projects/ghs-panel.html#publication-status",
     "title": "Nigeria GHS Panel Harmonisation",
     "section": "Publication status",
-    "text": "Publication status\nThis page outlines a project direction. Final harmonised data, validation results, and code are not yet published here.\nView available research summaries"
-  },
-  {
-    "objectID": "projects.html",
-    "href": "projects.html",
-    "title": "Projects",
-    "section": "",
-    "text": "Selected analysis and practical experience, with project status and available materials made explicit."
-  },
-  {
-    "objectID": "projects.html#tools-for-practical-problems",
-    "href": "projects.html#tools-for-practical-problems",
-    "title": "Projects",
-    "section": "Tools for practical problems",
-    "text": "Tools for practical problems\n\n\nReusable framework Web development\n\nReusable Portfolio Website Framework\nBuilt in response to friends and colleagues who wanted their own portfolio websites but could not code. A reusable structure, project layouts, and an editing guide reduce the work needed to get started.\nRead the project story →"
-  },
-  {
-    "objectID": "projects.html#work-in-progress",
-    "href": "projects.html#work-in-progress",
-    "title": "Projects",
-    "section": "Work in progress",
-    "text": "Work in progress\nThese pages describe ongoing project directions; final results and supporting materials are not yet published.\n\nNigeria GHS Panel harmonisation: cross-wave survey preparation and validation.\nHealthcare spending and malaria outcomes: a panel-data research direction for Sub-Saharan Africa."
-  },
-  {
-    "objectID": "cv.html",
-    "href": "cv.html",
-    "title": "CV",
-    "section": "",
-    "text": "Economics graduate · Data analytics · Research and business operations\nLagos, Nigeria · Email · GitHub\nDownload my full CV"
-  },
-  {
-    "objectID": "cv.html#malik-ishola-kolade",
-    "href": "cv.html#malik-ishola-kolade",
-    "title": "CV",
-    "section": "",
-    "text": "Economics graduate · Data analytics · Research and business operations\nLagos, Nigeria · Email · GitHub\nDownload my full CV"
-  },
-  {
-    "objectID": "cv.html#profile",
-    "href": "cv.html#profile",
-    "title": "CV",
-    "section": "Profile",
-    "text": "Profile\nEconomics graduate with a 4.35/5.00 CGPA and experience in quantitative research, data analysis, business operations, customer-facing sales support, record management, and academic mentorship."
-  },
-  {
-    "objectID": "cv.html#education-and-development",
-    "href": "cv.html#education-and-development",
-    "title": "CV",
-    "section": "Education and development",
-    "text": "Education and development\nBSc Economics, Lagos State University · 2021–2025\nCGPA: 4.35/5.00. Coursework included econometrics, mathematical economics, macroeconomics, microeconomics, and quantitative methods.\nApplied data science training, TS Academy · 2026–present\nPython, Pandas, NumPy, machine learning, statistical modelling, data analysis, and data pipelines."
-  },
-  {
-    "objectID": "cv.html#experience",
-    "href": "cv.html#experience",
-    "title": "CV",
-    "section": "Experience",
-    "text": "Experience\n\nSales and Records Assistant · ALFA STORE\n2021–2026 · Seasonal\n\nMaintained sales, collections, returns, quantity, and cost records for daily reconciliation.\nSupported transactions, inventory tracking, cost calculations, and operational problem-solving.\nDeveloped a digital costing and reconciliation tool, reporting approximately 80% less calculation time.\n\n\n\nAcademic Mentor and Tutor · Afkindemy\n2019–present\n\nMentor 10+ students annually through admission preparation and academic planning.\nTeach Mathematics, Economics, Government, and related coursework.\nGuided 20+ students into competitive courses at federal universities and supported 15+ students in achieving JAMB scores above 250.\n\n\n\nTeacher and Academic Mentor · Private Education\n2019–2022\n\nManaged a class of 25 pupils and adapted lessons to varied learning needs.\nMonitored progress and provided targeted feedback and academic support.\n\n\n\nUniversity Leadership and Research Support · Lagos State University\n2021–2025\n\nRepresented 170+ students in academic and welfare discussions.\nContributed to 25 undergraduate research projects.\nOrganised 15+ academic tutorials per semester and supported academic committees and orientation programmes."
-  },
-  {
-    "objectID": "cv.html#selected-work",
-    "href": "cv.html#selected-work",
-    "title": "CV",
-    "section": "Selected work",
-    "text": "Selected work\n\nBank Marketing Campaign Prediction: historical test ROC-AUC of 0.800 and top-decile lift of 4.47×.\nSales Costing & Reconciliation: practical workflow improvement at ALFA STORE.\nEconomic research: household welfare, green finance, and public debt."
-  },
-  {
-    "objectID": "cv.html#skills",
-    "href": "cv.html#skills",
-    "title": "CV",
-    "section": "Skills",
-    "text": "Skills\nAnalysis: Python, Pandas, NumPy, SQL/MySQL, Excel\nEconometrics: Stata, EViews, R, panel data and time-series methods\nResearch: literature review, data validation, variable construction, interpretation, and reporting\nProfessional: communication, mentorship, attention to detail, teamwork, and time management"
-  },
-  {
-    "objectID": "articles.html",
-    "href": "articles.html",
-    "title": "Notes",
-    "section": "",
-    "text": "Lessons from my analysis and research workflow."
-  },
-  {
-    "objectID": "articles.html#why-high-accuracy-can-hide-a-weak-marketing-model",
-    "href": "articles.html#why-high-accuracy-can-hide-a-weak-marketing-model",
-    "title": "Notes",
-    "section": "Why high accuracy can hide a weak marketing model",
-    "text": "Why high accuracy can hide a weak marketing model\nIn my Bank Marketing analysis, only about 11.3% of records were subscribers. A baseline that always predicted “no” achieved roughly 88.7% validation accuracy while identifying no subscribers.\nThat changed how I evaluated success. I compared precision, recall, F1, ROC-AUC, and average precision, then tested how many subscribers appeared in the highest-scoring customer groups. The final ranking placed about 45% of test-set subscribers in the top 10% of records.\nThe lesson: choose metrics that reflect the decision. For a team with limited call capacity, the concentration of subscribers near the top of a ranking can be more informative than overall accuracy.\nRead the analysis and its limitations"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "I’m Malik Kolade, an Economics graduate from Lagos State University, based in Lagos, Nigeria. My other name is Ishola. My interests span data analytics, quantitative research, and building tools that help people get things done.\nWhat connects these interests is the way I think. When I encounter a slow process, a confusing task, or something people struggle to access, I want to understand what makes it difficult. I ask questions, break the problem into smaller parts, and look for a solution that fits the people who will use it. Sometimes that means analysing data. Sometimes it means organising information, improving a workflow, or building a reusable tool."
-  },
-  {
-    "objectID": "about.html#i-notice-problems-ask-questions-and-look-for-a-useful-way-forward.",
-    "href": "about.html#i-notice-problems-ask-questions-and-look-for-a-useful-way-forward.",
-    "title": "About",
-    "section": "",
-    "text": "I’m Malik Kolade, an Economics graduate from Lagos State University, based in Lagos, Nigeria. My other name is Ishola. My interests span data analytics, quantitative research, and building tools that help people get things done.\nWhat connects these interests is the way I think. When I encounter a slow process, a confusing task, or something people struggle to access, I want to understand what makes it difficult. I ask questions, break the problem into smaller parts, and look for a solution that fits the people who will use it. Sometimes that means analysing data. Sometimes it means organising information, improving a workflow, or building a reusable tool."
-  },
-  {
-    "objectID": "about.html#building-around-the-people-who-need-the-solution",
-    "href": "about.html#building-around-the-people-who-need-the-solution",
-    "title": "About",
-    "section": "Building around the people who need the solution",
-    "text": "Building around the people who need the solution\nMy reusable portfolio website grew out of a problem among friends and colleagues: they wanted a place to present their skills and work online, but they could not code or were uncomfortable with even basic programming. Their need was clear; the technical steps stood in the way.\nI approached that as a practical problem to solve. Rather than expecting everyone to learn web development before sharing their work, I developed a reusable portfolio structure with pages, project layouts, and an editing guide. The aim was to reduce the work involved in getting started and give people a clearer route to maintaining their own portfolio.\nThat experience reflects what matters to me when I build something: understand the difficulty, make the solution usable, and explain how someone can continue using it. A tool becomes more useful when its user can understand what to do next.\nRead the portfolio framework story"
-  },
-  {
-    "objectID": "about.html#bringing-that-approach-to-business-and-research",
-    "href": "about.html#bringing-that-approach-to-business-and-research",
-    "title": "About",
-    "section": "Bringing that approach to business and research",
-    "text": "Bringing that approach to business and research\nAt ALFA STORE, I maintained sales records and saw how repetitive calculations slowed everyday work. I developed a digital costing and reconciliation tool, with an approximately 80% reduction in calculation time reported in my CV. That experience connected accurate records with a practical operational improvement.\nIn my Bank Marketing analysis, I focused on a decision: how a bank might prioritise limited campaign capacity. I compared models, examined the trade-offs between precision and recall, and used customer ranking to make the results easier to interpret in a business context.\nMy Economics background gives me another way to approach questions: consider the incentives, constraints, and wider conditions behind the numbers. I graduated with a 4.35/5.00 CGPA and contributed to literature reviews, research design, analysis, and interpretation across 25 undergraduate research projects during my university experience."
-  },
-  {
-    "objectID": "about.html#how-i-work",
-    "href": "about.html#how-i-work",
-    "title": "About",
-    "section": "How I work",
-    "text": "How I work\n\n\nUnderstand the difficulty\nStart with the person, process, or decision. Ask what is getting in the way and what a useful outcome would look like.\n\n\nBuild and check\nBreak the task down, test assumptions, and check whether the analysis or tool answers the original need.\n\n\nMake it understandable\nExplain the result, document the workflow, and be clear about limitations and what still needs improvement."
-  },
-  {
-    "objectID": "about.html#teaching-has-shaped-how-i-communicate",
-    "href": "about.html#teaching-has-shaped-how-i-communicate",
-    "title": "About",
-    "section": "Teaching has shaped how I communicate",
-    "text": "Teaching has shaped how I communicate\nThrough tutoring and academic mentorship at Afkindemy, I support students with admission preparation, academic planning, and coursework. I have also taught a class of 25 pupils and represented more than 170 students in university academic and welfare discussions.\nThese experiences have made clear communication part of how I work. People come with different levels of knowledge and confidence; a useful explanation should give them a starting point and help them take the next step."
-  },
-  {
-    "objectID": "about.html#what-im-developing-next",
-    "href": "about.html#what-im-developing-next",
-    "title": "About",
-    "section": "What I’m developing next",
-    "text": "What I’m developing next\nI’m strengthening my skills in Python, Pandas, NumPy, SQL/MySQL, Excel, Stata, EViews, and R, alongside applied data science training at TS Academy. My direction is to combine sound analysis with reproducible workflows and practical tools for business and research.\nI’m interested in opportunities where I can investigate a question carefully, learn what I need, and contribute a solution that people can use.\nView my CV Get in touch"
-  },
-  {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Contact",
-    "section": "",
-    "text": "I’m open to data analytics, quantitative research, business analysis, graduate opportunities, and collaborative projects.\n\n\n\ntheonlykolademalik@gmail.com\n\n\n\nNicholasmile\n\n\n\nLagos, Nigeria · UTC+1\n\n\nDownload my CV"
-  },
-  {
-    "objectID": "contact.html#lets-talk.",
-    "href": "contact.html#lets-talk.",
-    "title": "Contact",
-    "section": "",
-    "text": "I’m open to data analytics, quantitative research, business analysis, graduate opportunities, and collaborative projects.\n\n\n\ntheonlykolademalik@gmail.com\n\n\n\nNicholasmile\n\n\n\nLagos, Nigeria · UTC+1\n\n\nDownload my CV"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Turning data into useful decisions.",
-    "section": "",
-    "text": "Economics × Data × Research\n\n\n\nI’m Malik Kolade, an Economics graduate based in Lagos. I use Python, econometrics, and careful analysis to investigate business and development questions and explain what the evidence means.\n\n\nExplore my work Download my CV\n\n\nBSc Economics, Lagos State University · CGPA 4.35/5.00\n\n\n\n\n\n\nMalik KoladeEconomics graduate · Data analytics · Applied research\n*Experience figures reported in my CV. Model results describe historical holdout data."
-  },
-  {
-    "objectID": "index.html#selected-work",
-    "href": "index.html#selected-work",
-    "title": "Turning data into useful decisions.",
-    "section": "Selected work",
-    "text": "Selected work\n\n\nMachine learning Case study\n\nSmarter bank campaign targeting\nThe highest-scoring 10% of test records contained about 45% of subscribers. A classification study built around campaign capacity, class imbalance, and honest evaluation.\nRead the case study →\n\n\n\nBusiness operations Experience\n\nSales costing & reconciliation\nAt ALFA STORE, I developed a digital tool to reduce repetitive sales calculations and support daily reconciliation, reporting an approximately 80% reduction in calculation time.\nRead the experience summary →\n\n\n\nApplied economics Research\n\nPortfolio websites made easier\nA reusable website framework developed to help friends and colleagues who wanted a professional portfolio but could not code. Combines page layouts with practical editing guidance.\nRead the project story →"
-  },
-  {
-    "objectID": "index.html#a-quantitative-foundation.-a-practical-focus.",
-    "href": "index.html#a-quantitative-foundation.-a-practical-focus.",
-    "title": "Turning data into useful decisions.",
-    "section": "A quantitative foundation. A practical focus.",
-    "text": "A quantitative foundation. A practical focus.\nI’m drawn to problems people encounter in everyday work: repetitive tasks, difficult processes, and information that needs to be clearer. My projects combine analysis, workflow improvement, and reusable tools with guidance that helps people use them.\nTools: Python · Pandas · NumPy · SQL/MySQL · Excel · Stata · EViews · R\nMore about my background"
-  },
-  {
-    "objectID": "index.html#lets-work-together",
-    "href": "index.html#lets-work-together",
-    "title": "Turning data into useful decisions.",
-    "section": "Let’s work together",
-    "text": "Let’s work together\nI’m interested in data analytics, quantitative research, business analysis, and graduate opportunities.\nGet in touch"
+    "text": "Publication status\nThis page outlines a project direction. Final harmonised data, validation results, and code are not yet published here.\nView research experience"
   },
   {
     "objectID": "projects/bank-marketing.html",
@@ -348,6 +194,237 @@
     "title": "Bank Marketing: Smarter Campaign Targeting",
     "section": "Reproduce the analysis",
     "text": "Reproduce the analysis\nDownload the notebook and obtain bank-additional-full.csv from the UCI dataset. Put the CSV beside the notebook. The analysis uses Python, Pandas, NumPy, Matplotlib, scikit-learn, and Jupyter.\nThe metrics above are transcribed from the supplied notebook’s saved outputs. They have not been independently rerun for this website. The original notebook is provided unchanged.\nNotebook · Dataset · My GitHub profile"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Turning data into useful decisions.",
+    "section": "",
+    "text": "Economics × Research × Data Science × Technology\n\n\n\nI’m Malik Kolade, an Economics graduate based in Lagos. I use Python, econometrics, and careful analysis to investigate business and development questions and explain what the evidence means.\n\n\nExplore my work Download my CV\n\n\nBSc Economics, Lagos State University · CGPA 4.35/5.00\n\n\n\n\n\n\nMalik KoladeEconomics graduate · Data Science · Applied research\n*Experience figures reported in my CV. Model results describe historical holdout data."
+  },
+  {
+    "objectID": "index.html#selected-work",
+    "href": "index.html#selected-work",
+    "title": "Turning data into useful decisions.",
+    "section": "Selected work",
+    "text": "Selected work\n\n\nMachine learning Case study\n\nSmarter bank campaign targeting\nThe highest-scoring 10% of test records contained about 45% of subscribers. A classification study built around campaign capacity, class imbalance, and honest evaluation.\nRead the case study →\n\n\n\nData Science Research tooling\n\nEconomic data, ready for research\nA Python pipeline and Streamlit workspace for finding World Bank indicators, validating data, inspecting coverage, and exporting datasets with source documentation.\nRead the case study →\n\n\n\nApplied economics Research\n\nPortfolio websites made easier\nA reusable website framework developed to help friends and colleagues who wanted a professional portfolio but could not code. Combines page layouts with practical editing guidance.\nRead the project story →"
+  },
+  {
+    "objectID": "index.html#a-quantitative-foundation.-a-practical-focus.",
+    "href": "index.html#a-quantitative-foundation.-a-practical-focus.",
+    "title": "Turning data into useful decisions.",
+    "section": "A quantitative foundation. A practical focus.",
+    "text": "A quantitative foundation. A practical focus.\nI’m drawn to problems people encounter in everyday work: repetitive tasks, difficult processes, and information that needs to be clearer. My projects combine analysis, workflow improvement, and reusable tools with guidance that helps people use them.\nTools: Python · Pandas · NumPy · SQL/MySQL · Excel · Stata · EViews · R\nMore about my background"
+  },
+  {
+    "objectID": "index.html#what-i-can-bring-to-your-team",
+    "href": "index.html#what-i-can-bring-to-your-team",
+    "title": "Turning data into useful decisions.",
+    "section": "What I can bring to your team",
+    "text": "What I can bring to your team\nThe projects here reflect the approach I would bring to your organisation: understand the problem, work carefully with the evidence, and build a solution that people can use.\n\nPractical problem-solving: identify where a process is slow, confusing, or difficult to use, then break it into manageable steps.\nData Science and research support: source and prepare data, check its quality, investigate questions, and explain findings with their limitations.\nUseful tools and workflows: turn repeated tasks into clearer, reusable processes, with documentation that helps others use and maintain them.\n\nMy economic data pipeline, reusable portfolio framework, and sales reconciliation work show how I apply that approach to different needs. I want to bring the same curiosity, care, and willingness to improve to your team’s data, platforms, and everyday operations.\nI’m ready to learn your systems, take feedback, and put consistent effort into the responsibilities I’m given. I will ask questions when needed, communicate progress, and follow through on the work. My aim is to contribute useful results while continuing to develop my skills.\nI’m open to Data Science, quantitative research, business analysis, and graduate opportunities.\nDiscuss an opportunity View my CV"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "I’m open to Data Science, quantitative research, business analysis, graduate opportunities, and collaborative projects.\n\n\n\ntheonlykolademalik@gmail.com\n\n\n\nNicholasmile\n\n\n\nLagos, Nigeria · UTC+1\n\n\nDownload my CV"
+  },
+  {
+    "objectID": "contact.html#lets-talk.",
+    "href": "contact.html#lets-talk.",
+    "title": "Contact",
+    "section": "",
+    "text": "I’m open to Data Science, quantitative research, business analysis, graduate opportunities, and collaborative projects.\n\n\n\ntheonlykolademalik@gmail.com\n\n\n\nNicholasmile\n\n\n\nLagos, Nigeria · UTC+1\n\n\nDownload my CV"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "I’m Malik Kolade, an Economics graduate from Lagos State University, based in Lagos, Nigeria. My other name is Ishola. My interests span Data Science, quantitative research, and building tools that help people get things done.\nWhat connects these interests is the way I think. When I encounter a slow process, a confusing task, or something people struggle to access, I want to understand what makes it difficult. I ask questions, break the problem into smaller parts, and look for a solution that fits the people who will use it. Sometimes that means analysing data. Sometimes it means organising information, improving a workflow, or building a reusable tool."
+  },
+  {
+    "objectID": "about.html#i-notice-problems-ask-questions-and-look-for-a-useful-way-forward.",
+    "href": "about.html#i-notice-problems-ask-questions-and-look-for-a-useful-way-forward.",
+    "title": "About",
+    "section": "",
+    "text": "I’m Malik Kolade, an Economics graduate from Lagos State University, based in Lagos, Nigeria. My other name is Ishola. My interests span Data Science, quantitative research, and building tools that help people get things done.\nWhat connects these interests is the way I think. When I encounter a slow process, a confusing task, or something people struggle to access, I want to understand what makes it difficult. I ask questions, break the problem into smaller parts, and look for a solution that fits the people who will use it. Sometimes that means analysing data. Sometimes it means organising information, improving a workflow, or building a reusable tool."
+  },
+  {
+    "objectID": "about.html#building-around-the-people-who-need-the-solution",
+    "href": "about.html#building-around-the-people-who-need-the-solution",
+    "title": "About",
+    "section": "Building around the people who need the solution",
+    "text": "Building around the people who need the solution\nMy reusable portfolio website grew out of a problem among friends and colleagues: they wanted a place to present their skills and work online, but they could not code or were uncomfortable with even basic programming. Their need was clear; the technical steps stood in the way.\nI approached that as a practical problem to solve. Rather than expecting everyone to learn web development before sharing their work, I developed a reusable portfolio structure with pages, project layouts, and an editing guide. The aim was to reduce the work involved in getting started and give people a clearer route to maintaining their own portfolio.\nThat experience reflects what matters to me when I build something: understand the difficulty, make the solution usable, and explain how someone can continue using it. A tool becomes more useful when its user can understand what to do next.\nRead the portfolio framework story"
+  },
+  {
+    "objectID": "about.html#bringing-that-approach-to-business-and-research",
+    "href": "about.html#bringing-that-approach-to-business-and-research",
+    "title": "About",
+    "section": "Bringing that approach to business and research",
+    "text": "Bringing that approach to business and research\nAt ALFA STORE, I maintained sales records and saw how repetitive calculations slowed everyday work. I developed a digital costing and reconciliation tool, with an approximately 80% reduction in calculation time reported in my CV. That experience connected accurate records with a practical operational improvement.\nIn my Bank Marketing analysis, I focused on a decision: how a bank might prioritise limited campaign capacity. I compared models, examined the trade-offs between precision and recall, and used customer ranking to make the results easier to interpret in a business context.\nMy Economics background gives me another way to approach questions: consider the incentives, constraints, and wider conditions behind the numbers. I graduated with a 4.35/5.00 CGPA and contributed to literature reviews, research design, analysis, and interpretation across 25 undergraduate research projects during my university experience."
+  },
+  {
+    "objectID": "about.html#how-i-work",
+    "href": "about.html#how-i-work",
+    "title": "About",
+    "section": "How I work",
+    "text": "How I work\n\n\nUnderstand the difficulty\nStart with the person, process, or decision. Ask what is getting in the way and what a useful outcome would look like.\n\n\nBuild and check\nBreak the task down, test assumptions, and check whether the analysis or tool answers the original need.\n\n\nMake it understandable\nExplain the result, document the workflow, and be clear about limitations and what still needs improvement."
+  },
+  {
+    "objectID": "about.html#teaching-has-shaped-how-i-communicate",
+    "href": "about.html#teaching-has-shaped-how-i-communicate",
+    "title": "About",
+    "section": "Teaching has shaped how I communicate",
+    "text": "Teaching has shaped how I communicate\nThrough tutoring and academic mentorship at Afkindemy, I support students with admission preparation, academic planning, and coursework. I have also taught a class of 25 pupils and represented more than 170 students in university academic and welfare discussions.\nThese experiences have made clear communication part of how I work. People come with different levels of knowledge and confidence; a useful explanation should give them a starting point and help them take the next step."
+  },
+  {
+    "objectID": "about.html#what-im-developing-next",
+    "href": "about.html#what-im-developing-next",
+    "title": "About",
+    "section": "What I’m developing next",
+    "text": "What I’m developing next\nI’m strengthening my skills in Python, Pandas, NumPy, SQL/MySQL, Excel, Stata, EViews, and R, alongside applied data science training at TS Academy. My direction brings together Economics, Research, Data Science, and Technology through reproducible workflows and practical tools for business and research.\nI’m interested in opportunities where I can investigate a question carefully, learn what I need, and contribute a solution that people can use.\nView my CV Get in touch"
+  },
+  {
+    "objectID": "articles.html",
+    "href": "articles.html",
+    "title": "Notes",
+    "section": "",
+    "text": "Lessons from my analysis and research workflow."
+  },
+  {
+    "objectID": "articles.html#why-high-accuracy-can-hide-a-weak-marketing-model",
+    "href": "articles.html#why-high-accuracy-can-hide-a-weak-marketing-model",
+    "title": "Notes",
+    "section": "Why high accuracy can hide a weak marketing model",
+    "text": "Why high accuracy can hide a weak marketing model\nIn my Bank Marketing analysis, only about 11.3% of records were subscribers. A baseline that always predicted “no” achieved roughly 88.7% validation accuracy while identifying no subscribers.\nThat changed how I evaluated success. I compared precision, recall, F1, ROC-AUC, and average precision, then tested how many subscribers appeared in the highest-scoring customer groups. The final ranking placed about 45% of test-set subscribers in the top 10% of records.\nThe lesson: choose metrics that reflect the decision. For a team with limited call capacity, the concentration of subscribers near the top of a ranking can be more informative than overall accuracy.\nRead the analysis and its limitations"
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
+    "section": "",
+    "text": "Economics graduate · Data Science · Research and business operations\nLagos, Nigeria · Email · GitHub\nDownload my full CV"
+  },
+  {
+    "objectID": "cv.html#malik-ishola-kolade",
+    "href": "cv.html#malik-ishola-kolade",
+    "title": "CV",
+    "section": "",
+    "text": "Economics graduate · Data Science · Research and business operations\nLagos, Nigeria · Email · GitHub\nDownload my full CV"
+  },
+  {
+    "objectID": "cv.html#profile",
+    "href": "cv.html#profile",
+    "title": "CV",
+    "section": "Profile",
+    "text": "Profile\nEconomics graduate with a 4.35/5.00 CGPA and experience in quantitative research, data analysis, business operations, customer-facing sales support, record management, and academic mentorship."
+  },
+  {
+    "objectID": "cv.html#education-and-development",
+    "href": "cv.html#education-and-development",
+    "title": "CV",
+    "section": "Education and development",
+    "text": "Education and development\nBSc Economics, Lagos State University · 2021–2025\nCGPA: 4.35/5.00. Coursework included econometrics, mathematical economics, macroeconomics, microeconomics, and quantitative methods.\nApplied data science training, TS Academy · 2026–present\nPython, Pandas, NumPy, machine learning, statistical modelling, data analysis, and data pipelines."
+  },
+  {
+    "objectID": "cv.html#experience",
+    "href": "cv.html#experience",
+    "title": "CV",
+    "section": "Experience",
+    "text": "Experience\n\nSales and Records Assistant · ALFA STORE\n2021–2026 · Seasonal\n\nMaintained sales, collections, returns, quantity, and cost records for daily reconciliation.\nSupported transactions, inventory tracking, cost calculations, and operational problem-solving.\nDeveloped a digital costing and reconciliation tool, reporting approximately 80% less calculation time.\n\n\n\nAcademic Mentor and Tutor · Afkindemy\n2019–present\n\nMentor 10+ students annually through admission preparation and academic planning.\nTeach Mathematics, Economics, Government, and related coursework.\nGuided 20+ students into competitive courses at federal universities and supported 15+ students in achieving JAMB scores above 250.\n\n\n\nTeacher and Academic Mentor · Private Education\n2019–2022\n\nManaged a class of 25 pupils and adapted lessons to varied learning needs.\nMonitored progress and provided targeted feedback and academic support.\n\n\n\nUniversity Leadership and Research Support · Lagos State University\n2021–2025\n\nRepresented 170+ students in academic and welfare discussions.\nContributed to 25 undergraduate research projects.\nOrganised 15+ academic tutorials per semester and supported academic committees and orientation programmes."
+  },
+  {
+    "objectID": "cv.html#selected-work",
+    "href": "cv.html#selected-work",
+    "title": "CV",
+    "section": "Selected work",
+    "text": "Selected work\n\nBank Marketing Campaign Prediction: historical test ROC-AUC of 0.800 and top-decile lift of 4.47×.\nEconomic Data Pipeline & Research Platform: World Bank data retrieval, validation, coverage reporting, and documented dataset exports.\nSales Costing & Reconciliation: practical workflow improvement at ALFA STORE.\nResearch experience: undergraduate research assistance, data sourcing, preparation, econometric analysis, and interpretation."
+  },
+  {
+    "objectID": "cv.html#skills",
+    "href": "cv.html#skills",
+    "title": "CV",
+    "section": "Skills",
+    "text": "Skills\nAnalysis: Python, Pandas, NumPy, SQL/MySQL, Excel\nEconometrics: Stata, EViews, R, panel data and time-series methods\nResearch: literature review, data validation, variable construction, interpretation, and reporting\nProfessional: communication, mentorship, attention to detail, teamwork, and time management"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Selected analysis and practical experience, with project status and available materials made explicit."
+  },
+  {
+    "objectID": "projects.html#tools-for-practical-problems",
+    "href": "projects.html#tools-for-practical-problems",
+    "title": "Projects",
+    "section": "Tools for practical problems",
+    "text": "Tools for practical problems\n\n\nPython pipeline Research tooling\n\nEconomic Data Pipeline & Research Platform\nA Streamlit workspace for retrieving World Bank indicators, validating observations, inspecting missing coverage, and exporting datasets with source information.\nRead the case study →\n\n\n\nReusable framework Web development\n\nReusable Portfolio Website Framework\nBuilt in response to friends and colleagues who wanted their own portfolio websites but could not code. A reusable structure, project layouts, and an editing guide reduce the work needed to get started.\nRead the project story →"
+  },
+  {
+    "objectID": "projects.html#work-in-progress",
+    "href": "projects.html#work-in-progress",
+    "title": "Projects",
+    "section": "Work in progress",
+    "text": "Work in progress\nThese pages describe ongoing project directions; final results and supporting materials are not yet published.\n\nNigeria GHS Panel harmonisation: cross-wave survey preparation and validation.\nHealthcare spending and malaria outcomes: a panel-data research direction for Sub-Saharan Africa."
+  },
+  {
+    "objectID": "projects/economic-data-pipeline.html",
+    "href": "projects/economic-data-pipeline.html",
+    "title": "Economic Data Pipeline & Research Platform",
+    "section": "",
+    "text": "Python Data Science Research tooling Streamlit"
+  },
+  {
+    "objectID": "projects/economic-data-pipeline.html#the-problem-getting-from-a-research-question-to-usable-data",
+    "href": "projects/economic-data-pipeline.html#the-problem-getting-from-a-research-question-to-usable-data",
+    "title": "Economic Data Pipeline & Research Platform",
+    "section": "The problem: getting from a research question to usable data",
+    "text": "The problem: getting from a research question to usable data\nFinding an indicator is only the beginning of empirical research. Researchers also need to identify the right country and period, understand definitions, check coverage, organise observations, and retain enough source information to explain where their data came from.\nI built an economic data pipeline and research platform to bring these steps into a connected workflow. The project links my Economics background with Data Science and software development, with a practical focus on making economic data easier to discover, inspect, and prepare for research."
+  },
+  {
+    "objectID": "projects/economic-data-pipeline.html#what-i-built",
+    "href": "projects/economic-data-pipeline.html#what-i-built",
+    "title": "Economic Data Pipeline & Research Platform",
+    "section": "What I built",
+    "text": "What I built\nThe project includes a browser-based Streamlit workspace backed by a reusable Python service. Researchers select countries, a year range, and World Bank indicators, then build a dataset they can inspect and download.\nThe current platform supports annual World Development Indicators. It provides indicator search, research presets, data tables, comparison charts, coverage reports, definitions, and source information. CSV and documented Excel exports let researchers continue their analysis outside the application."
+  },
+  {
+    "objectID": "projects/economic-data-pipeline.html#the-research-workflow",
+    "href": "projects/economic-data-pipeline.html#the-research-workflow",
+    "title": "Economic Data Pipeline & Research Platform",
+    "section": "The research workflow",
+    "text": "The research workflow\n\n\n1. Find relevant indicators\nSearch country and indicator catalogues by name, code, or definition. Choose a period and customise the selected indicators.\n\n\n2. Retrieve and inspect\nRetrieve series through the World Bank API, validate observations, and examine coverage, charts, and missing values.\n\n\n3. Export with context\nDownload a research dataset alongside source dates, indicator definitions, settings, and suggested citations."
+  },
+  {
+    "objectID": "projects/economic-data-pipeline.html#engineering-decisions-that-support-research-reliability",
+    "href": "projects/economic-data-pipeline.html#engineering-decisions-that-support-research-reliability",
+    "title": "Economic Data Pipeline & Research Platform",
+    "section": "Engineering decisions that support research reliability",
+    "text": "Engineering decisions that support research reliability\n\nValidate inputs and observations: check country and indicator identity, year ranges, unique years, and finite numeric values.\nPreserve missing information: retain gaps in annual series and charts. Missing observations are not filled, interpolated, or replaced with zero.\nSeparate missing data from retrieval failures: display partial failures explicitly and retry failed series while retaining successful observations.\nTrack provenance: retain original indicator codes, source URLs, retrieval timestamps, API update dates, and available provider metadata.\nUse validated caches: cache responses with a 24-hour lifetime, schema information, identity checks, and checksums. Expired matching caches may be used during API failure, with a visible stale-data label.\nKeep exports separate from original data: generate CSV and Excel downloads in memory rather than overwriting existing processed datasets.\n\nThese choices help a researcher see both the available evidence and the conditions under which it was retrieved. Checksums detect accidental corruption; they do not prove source authenticity."
+  },
+  {
+    "objectID": "projects/economic-data-pipeline.html#architecture-and-implementation",
+    "href": "projects/economic-data-pipeline.html#architecture-and-implementation",
+    "title": "Economic Data Pipeline & Research Platform",
+    "section": "Architecture and implementation",
+    "text": "Architecture and implementation\nInterface: Streamlit manages selection, retrieval progress, result views, and session state.\nBackend: a Python service handles API requests, pagination, caching, validation, dataset assembly, coverage, and exports.\nResearch presentation: a separate module provides presets, charts, readable coverage summaries, and citation/settings output.\nThe backend is separate from Streamlit and performs no work on import. The application also separates selection controls from result views so that changing a selection does not silently replace an existing result.\nThe repository includes deterministic tests for backend behaviour and Streamlit flows, including invalid observations, cache corruption, stale fallback, partial failures, missing values, and exports. This portfolio summary is based on inspection of the source and documentation; it does not report a new test run or a measured performance improvement."
+  },
+  {
+    "objectID": "projects/economic-data-pipeline.html#scope-and-limitations",
+    "href": "projects/economic-data-pipeline.html#scope-and-limitations",
+    "title": "Economic Data Pipeline & Research Platform",
+    "section": "Scope and limitations",
+    "text": "Scope and limitations\nThe current data source is World Bank World Development Indicators, rather than a general connection to every economic database. Regional and income aggregates and other World Bank datasets are outside the current scope.\nHistorical data may be revised by its provider. Researchers should retain their downloaded datasets, definitions, and retrieval dates. Caches are an optimisation and may disappear after a hosting restart.\nThe repository also contains original command-line tools and an offline archive viewer. Legacy archive files are labelled separately because they do not have verified API retrieval provenance."
+  },
+  {
+    "objectID": "projects/economic-data-pipeline.html#what-this-project-demonstrates",
+    "href": "projects/economic-data-pipeline.html#what-this-project-demonstrates",
+    "title": "Economic Data Pipeline & Research Platform",
+    "section": "What this project demonstrates",
+    "text": "What this project demonstrates\nA practical research need translated into a reusable system: API integration, data preparation, validation, failure handling, source documentation, and an interface that helps researchers understand their dataset before analysis.\nView the source repository Explore my research experience"
   },
   {
     "objectID": "projects/malaria-health-spending.html",
