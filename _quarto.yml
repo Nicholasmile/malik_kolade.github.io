@@ -10,7 +10,7 @@ project:
 website:
   site-url: "https://nicholasmile.github.io/malik_kolade.github.io/"
   title: "Malik Kolade"
-  description: "Malik Ishola Kolade — economics, data analytics, machine learning, and applied research."
+  description: "Malik Kolade — Economics, Research, Data Science, and Technology."
   navbar:
     background: light
     left:
@@ -37,7 +37,7 @@ website:
         aria-label: Email Malik
   page-footer:
     left: "© 2026 Malik Ishola Kolade"
-    right: "Economics · Data · Research"
+    right: "Economics · Research · Data Science · Technology"
   search: true
   back-to-top-navigation: true
 format:

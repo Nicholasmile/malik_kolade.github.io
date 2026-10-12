@@ -5,7 +5,8 @@ title: "CV"
 
 ## Malik Ishola Kolade
 
-**Economics graduate · Data analytics · Research and business operations**  
+**Economics graduate · Data Science · Research and business operations**
+
 Lagos, Nigeria · [Email](mailto:theonlykolademalik@gmail.com) · [GitHub](https://github.com/Nicholasmile)
 
 [Download my full CV](assets/Malik_Kolade_CV.pdf){.btn-primary-custom download="Malik_Kolade_CV.pdf"}
@@ -54,8 +55,9 @@ Python, Pandas, NumPy, machine learning, statistical modelling, data analysis, a
 ## Selected work
 
 - [Bank Marketing Campaign Prediction](projects/bank-marketing.qmd): historical test ROC-AUC of 0.800 and top-decile lift of 4.47×.
+- [Economic Data Pipeline & Research Platform](projects/economic-data-pipeline.qmd): World Bank data retrieval, validation, coverage reporting, and documented dataset exports.
 - [Sales Costing & Reconciliation](projects/sales-reconciliation.qmd): practical workflow improvement at ALFA STORE.
-- [Economic research](research.qmd): household welfare, green finance, and public debt.
+- [Research experience](research.qmd): undergraduate research assistance, data sourcing, preparation, econometric analysis, and interpretation.
 
 ## Skills
 

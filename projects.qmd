@@ -23,18 +23,26 @@ A digital tool developed during seasonal work at ALFA STORE. Approximately 80% l
 [Experience summary →](projects/sales-reconciliation.qmd){.project-link}
 :::
 ::: {.project-card}
-<span class="tag">Research summaries</span> <span class="tag">Econometrics</span>
+<span class="tag">Research experience</span> <span class="tag">Econometrics</span>
 
-### Applied Economic Research
-Household healthcare expenditure, green finance in ECOWAS, and Nigerian public debt. Summaries of work listed in my CV.
+### Research Experience
+Undergraduate research assistance, credible data sourcing, dataset preparation, econometric analysis, interpretation, and research workflow support.
 
-[Research overview →](research.qmd){.project-link}
+[Explore research experience →](research.qmd){.project-link}
 :::
 :::
 
 ## Tools for practical problems
 
 ::: {.card-grid}
+::: {.project-card}
+<span class="tag">Python pipeline</span> <span class="tag">Research tooling</span>
+
+### Economic Data Pipeline & Research Platform
+A Streamlit workspace for retrieving World Bank indicators, validating observations, inspecting missing coverage, and exporting datasets with source information.
+
+[Read the case study →](projects/economic-data-pipeline.qmd){.project-link}
+:::
 ::: {.project-card}
 <span class="tag">Reusable framework</span> <span class="tag">Web development</span>
 

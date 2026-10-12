@@ -1,12 +1,12 @@
 ---
 title: ""
-description: "Economics graduate using data and research to answer business and development questions."
+description: "Economics graduate developing in Data Science, research, and technology to answer business and development questions."
 ---
 
 
 ::: {.hero}
 ::: {.hero-copy}
-<span class="hero-kicker">Economics × Data × Research</span>
+<span class="hero-kicker">Economics × Research × Data Science × Technology</span>
 
 # Turning data into useful decisions.
 
@@ -23,7 +23,7 @@ description: "Economics graduate using data and research to answer business and 
 ::: {.portrait-panel}
 <img src="assets/malik-ishola.jpg" class="profile-photo" alt="Malik Kolade wearing a black suit and tie" width="1234" height="1275" fetchpriority="high">
 
-<div class="portrait-caption">Malik Kolade<span>Economics graduate · Data analytics · Applied research</span></div>
+<div class="portrait-caption">Malik Kolade<span>Economics graduate · Data Science · Applied research</span></div>
 :::
 :::
 
@@ -60,12 +60,12 @@ The highest-scoring 10% of test records contained about 45% of subscribers. A cl
 [Read the case study →](projects/bank-marketing.qmd){.project-link}
 :::
 ::: {.project-card}
-<span class="tag">Business operations</span> <span class="tag">Experience</span>
+<span class="tag">Data Science</span> <span class="tag">Research tooling</span>
 
-### Sales costing & reconciliation
-At ALFA STORE, I developed a digital tool to reduce repetitive sales calculations and support daily reconciliation, reporting an approximately 80% reduction in calculation time.
+### Economic data, ready for research
+A Python pipeline and Streamlit workspace for finding World Bank indicators, validating data, inspecting coverage, and exporting datasets with source documentation.
 
-[Read the experience summary →](projects/sales-reconciliation.qmd){.project-link}
+[Read the case study →](projects/economic-data-pipeline.qmd){.project-link}
 :::
 ::: {.project-card}
 <span class="tag">Applied economics</span> <span class="tag">Research</span>
@@ -87,8 +87,19 @@ I’m drawn to problems people encounter in everyday work: repetitive tasks, dif
 [More about my background](about.qmd){.project-link}
 :::
 
-## Let’s work together
+## What I can bring to your team
 
-I’m interested in data analytics, quantitative research, business analysis, and graduate opportunities.
+The projects here reflect the approach I would bring to your organisation: understand the problem, work carefully with the evidence, and build a solution that people can use.
 
-[Get in touch](contact.qmd){.btn-primary-custom}
+- **Practical problem-solving:** identify where a process is slow, confusing, or difficult to use, then break it into manageable steps.
+- **Data Science and research support:** source and prepare data, check its quality, investigate questions, and explain findings with their limitations.
+- **Useful tools and workflows:** turn repeated tasks into clearer, reusable processes, with documentation that helps others use and maintain them.
+
+My economic data pipeline, reusable portfolio framework, and sales reconciliation work show how I apply that approach to different needs. I want to bring the same curiosity, care, and willingness to improve to your team’s data, platforms, and everyday operations.
+
+I’m ready to learn your systems, take feedback, and put consistent effort into the responsibilities I’m given. I will ask questions when needed, communicate progress, and follow through on the work. My aim is to contribute useful results while continuing to develop my skills.
+
+I’m open to Data Science, quantitative research, business analysis, and graduate opportunities.
+
+[Discuss an opportunity](contact.qmd){.btn-primary-custom}
+[View my CV](cv.qmd){.btn-secondary-custom}

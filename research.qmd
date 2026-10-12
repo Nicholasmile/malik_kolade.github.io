@@ -1,36 +1,113 @@
 ---
-title: "Research"
+title: "Research Experience"
+description: "Research experience of Malik Kolade, focused on undergraduate research assistance, research data sourcing, econometric analysis, quantitative research, and Data Science."
 ---
 
+<p class="section-intro">My research experience has developed through undergraduate research assistance, academic projects, independent research work, and data-focused research activities.</p>
 
-<p class="section-intro">Applied economics work spanning household welfare, finance, and macroeconomic relationships.</p>
+A major part of my experience involves supporting the practical stages of research: identifying appropriate data sources, sourcing credible datasets, preparing data for analysis, conducting statistical and econometric analysis, interpreting results, and supporting the documentation of findings.
 
-## Selected research experience
+My background in Economics provides a foundation in econometrics, statistics, quantitative research methods, macroeconomics, development economics, and public finance. I am increasingly combining this foundation with **Data Science**, programming, and reproducible research workflows.
 
-The following summaries reflect projects listed in my CV. Papers, datasets, and numerical results are not yet published here.
+## Undergraduate Research Assistance
 
-### Out-of-pocket healthcare expenditure and household welfare in Nigeria
-**Tools:** Python and Stata · **Data:** household survey data
+A significant area of my experience is supporting undergraduate and final-year researchers, particularly during the data and empirical stages of their projects. My work has included helping researchers move from a research question to appropriate data, a workable analytical approach, and results they can understand and explain.
 
-Conducted quantitative research involving data sourcing, cleaning, variable construction, analysis, interpretation, and reporting. Examined the relationship between healthcare expenditure and household welfare and translated statistical evidence into policy-relevant findings.
+::: {.card-grid}
+::: {.info-card}
+### Finding appropriate data
 
-### Green finance and technological innovation
-**Tools:** EViews and Stata · **Scope:** ECOWAS panel study
+- Identify suitable datasets for research questions.
+- Source secondary and publicly available data.
+- Find credible data from national and international institutions.
+:::
+::: {.info-card}
+### Preparing research datasets
 
-Sourced, restructured, cleaned, and validated multi-country data. The project involved ARDL, DOLS, GMM, PMG, and VECM approaches, diagnostic assessment, and interpretation of empirical results.
+- Understand variables, indicators, units, and data definitions.
+- Clean and restructure datasets.
+- Prepare data for statistical and econometric analysis.
+:::
+::: {.info-card}
+### Supporting analytical methods
 
-### Public debt and economic growth in Nigeria
-**Tools:** EViews · **Approach:** time-series analysis
+- Support the selection of appropriate methods.
+- Conduct descriptive and quantitative analysis.
+- Support econometric analysis.
+:::
+::: {.info-card}
+### Presenting the evidence
 
-Prepared Nigerian macroeconomic data, estimated an ARDL model with bounds testing, and interpreted short-run and long-run relationships.
+- Create research-ready tables and charts.
+- Prepare analytical summaries.
+- Document findings and empirical outputs.
+:::
+::: {.info-card}
+### Interpreting results
 
-## Research support
+- Interpret statistical and econometric outputs.
+- Translate technical results into clear academic explanations.
+- Connect findings to the research question and their limitations.
+:::
+::: {.info-card}
+### Guiding the researcher
 
-During my time at Lagos State University, I contributed to 25 undergraduate research projects through literature review, design, collection, analysis, interpretation, and policy recommendations. These were support contributions, rather than a claim of 25 independently authored papers.
+- Support methodology and empirical documentation.
+- Help researchers understand their results.
+- Help them explain and defend their analysis.
+:::
+:::
 
-## Ongoing directions
+This is research assistance, data and analytical support, and research guidance. My emphasis is on helping researchers understand the work and take ownership of their analysis.
 
-- [Nigeria GHS Panel harmonisation](projects/ghs-panel.qmd)
-- [Healthcare spending and malaria outcomes in Sub-Saharan Africa](projects/malaria-health-spending.qmd)
+## Research Data Sourcing
+
+One of the areas in which I have developed particular experience is locating usable data for empirical research. Research ideas can be difficult to execute when researchers cannot identify suitable data, understand available indicators, or determine which institutions provide the information their study needs.
+
+I work with researchers to identify credible sources, understand available variables, evaluate whether a dataset fits the research question, and prepare the selected data for analysis.
+
+My experience includes working with data made available by national statistical institutions, central banks, international development organisations, open-data platforms, research repositories, and other credible public sources.
+
+## Research Analysis
+
+My analytical work focuses on connecting the research question with the data and an appropriate quantitative method.
+
+Depending on the research, this may involve exploratory analysis, descriptive statistics, statistical testing, econometric modelling, data visualisation, interpretation of model outputs, and preparation of research-ready tables and results.
+
+I place particular emphasis on **interpretation**. Producing an output is one part of empirical research; the researcher should also understand what it means, how it relates to the question, and what conclusions can reasonably be drawn from it.
+
+## Research & Data Science Tools
+
+My research toolkit includes the following tools, used according to the task. I continue to develop my practical skills and combine programming with established econometric workflows.
+
+::: {.project-meta}
+<span class="tag">Python</span>
+<span class="tag">Pandas</span>
+<span class="tag">NumPy</span>
+<span class="tag">Matplotlib</span>
+<span class="tag">SQL</span>
+<span class="tag">Stata</span>
+<span class="tag">EViews</span>
+<span class="tag">Excel</span>
+<span class="tag">Jupyter</span>
+:::
+
+::: {.feature-band}
+## Research workflows in practice
+
+My [Economic Data Pipeline & Research Platform](projects/economic-data-pipeline.qmd) puts data sourcing and preparation into a browser-based workflow. It combines World Bank indicator retrieval, validation, coverage checks, source documentation, and CSV/Excel exports.
+
+This is a software project supporting research workflows, rather than a research publication.
+
+[Read the engineering case study](projects/economic-data-pipeline.qmd){.project-link}
+:::
+
+## My Research Approach
+
+I approach research as a connected process involving the question, data source, variables, methodology, analysis, interpretation, and final conclusion.
+
+I am particularly interested in making quantitative research more understandable and reproducible, especially for undergraduate researchers encountering empirical research for the first time.
+
+My current development brings together **Economics, econometrics, Data Science, automation, and technology** to improve how research data is discovered, prepared, analysed, interpreted, and documented.
 
 [Discuss research opportunities](contact.qmd){.btn-secondary-custom}

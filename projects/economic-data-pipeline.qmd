@@ -1,0 +1,72 @@
+---
+title: "Economic Data Pipeline & Research Platform"
+description: "A Python and Streamlit workspace for sourcing, validating, exploring, and exporting economic research data."
+toc: true
+---
+
+<span class="tag">Python</span> <span class="tag">Data Science</span> <span class="tag">Research tooling</span> <span class="tag">Streamlit</span>
+
+## The problem: getting from a research question to usable data
+
+Finding an indicator is only the beginning of empirical research. Researchers also need to identify the right country and period, understand definitions, check coverage, organise observations, and retain enough source information to explain where their data came from.
+
+I built an economic data pipeline and research platform to bring these steps into a connected workflow. The project links my Economics background with Data Science and software development, with a practical focus on making economic data easier to discover, inspect, and prepare for research.
+
+## What I built
+
+The project includes a **browser-based Streamlit workspace** backed by a reusable Python service. Researchers select countries, a year range, and World Bank indicators, then build a dataset they can inspect and download.
+
+The current platform supports **annual World Development Indicators**. It provides indicator search, research presets, data tables, comparison charts, coverage reports, definitions, and source information. CSV and documented Excel exports let researchers continue their analysis outside the application.
+
+## The research workflow
+
+::: {.card-grid}
+::: {.info-card}
+### 1. Find relevant indicators
+Search country and indicator catalogues by name, code, or definition. Choose a period and customise the selected indicators.
+:::
+::: {.info-card}
+### 2. Retrieve and inspect
+Retrieve series through the World Bank API, validate observations, and examine coverage, charts, and missing values.
+:::
+::: {.info-card}
+### 3. Export with context
+Download a research dataset alongside source dates, indicator definitions, settings, and suggested citations.
+:::
+:::
+
+## Engineering decisions that support research reliability
+
+- **Validate inputs and observations:** check country and indicator identity, year ranges, unique years, and finite numeric values.
+- **Preserve missing information:** retain gaps in annual series and charts. Missing observations are not filled, interpolated, or replaced with zero.
+- **Separate missing data from retrieval failures:** display partial failures explicitly and retry failed series while retaining successful observations.
+- **Track provenance:** retain original indicator codes, source URLs, retrieval timestamps, API update dates, and available provider metadata.
+- **Use validated caches:** cache responses with a 24-hour lifetime, schema information, identity checks, and checksums. Expired matching caches may be used during API failure, with a visible stale-data label.
+- **Keep exports separate from original data:** generate CSV and Excel downloads in memory rather than overwriting existing processed datasets.
+
+These choices help a researcher see both the available evidence and the conditions under which it was retrieved. Checksums detect accidental corruption; they do not prove source authenticity.
+
+## Architecture and implementation
+
+**Interface:** Streamlit manages selection, retrieval progress, result views, and session state.  
+**Backend:** a Python service handles API requests, pagination, caching, validation, dataset assembly, coverage, and exports.  
+**Research presentation:** a separate module provides presets, charts, readable coverage summaries, and citation/settings output.
+
+The backend is separate from Streamlit and performs no work on import. The application also separates selection controls from result views so that changing a selection does not silently replace an existing result.
+
+The repository includes deterministic tests for backend behaviour and Streamlit flows, including invalid observations, cache corruption, stale fallback, partial failures, missing values, and exports. This portfolio summary is based on inspection of the source and documentation; it does not report a new test run or a measured performance improvement.
+
+## Scope and limitations
+
+The current data source is World Bank World Development Indicators, rather than a general connection to every economic database. Regional and income aggregates and other World Bank datasets are outside the current scope.
+
+Historical data may be revised by its provider. Researchers should retain their downloaded datasets, definitions, and retrieval dates. Caches are an optimisation and may disappear after a hosting restart.
+
+The repository also contains original command-line tools and an offline archive viewer. Legacy archive files are labelled separately because they do not have verified API retrieval provenance.
+
+## What this project demonstrates
+
+A practical research need translated into a reusable system: API integration, data preparation, validation, failure handling, source documentation, and an interface that helps researchers understand their dataset before analysis.
+
+[View the source repository](https://github.com/Nicholasmile/economic-data-pipeline){.btn-primary-custom}
+[Explore my research experience](../research.qmd){.btn-secondary-custom}

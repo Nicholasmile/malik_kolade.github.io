@@ -1,11 +1,11 @@
 ---
 title: "About"
-description: "Malik Kolade: economics, data, and practical problem-solving."
+description: "Malik Kolade: Economics, Research, Data Science, Technology, and practical problem-solving."
 ---
 
 ## I notice problems, ask questions, and look for a useful way forward.
 
-I’m **Malik Kolade**, an Economics graduate from **Lagos State University**, based in Lagos, Nigeria. My other name is Ishola. My interests span data analytics, quantitative research, and building tools that help people get things done.
+I’m **Malik Kolade**, an Economics graduate from **Lagos State University**, based in Lagos, Nigeria. My other name is Ishola. My interests span Data Science, quantitative research, and building tools that help people get things done.
 
 What connects these interests is the way I think. When I encounter a slow process, a confusing task, or something people struggle to access, I want to understand what makes it difficult. I ask questions, break the problem into smaller parts, and look for a solution that fits the people who will use it. Sometimes that means analysing data. Sometimes it means organising information, improving a workflow, or building a reusable tool.
 
@@ -52,7 +52,7 @@ These experiences have made clear communication part of how I work. People come 
 
 ## What I’m developing next
 
-I’m strengthening my skills in **Python, Pandas, NumPy, SQL/MySQL, Excel, Stata, EViews, and R**, alongside applied data science training at **TS Academy**. My direction is to combine sound analysis with reproducible workflows and practical tools for business and research.
+I’m strengthening my skills in **Python, Pandas, NumPy, SQL/MySQL, Excel, Stata, EViews, and R**, alongside applied data science training at **TS Academy**. My direction brings together Economics, Research, Data Science, and Technology through reproducible workflows and practical tools for business and research.
 
 I’m interested in opportunities where I can investigate a question carefully, learn what I need, and contribute a solution that people can use.
 

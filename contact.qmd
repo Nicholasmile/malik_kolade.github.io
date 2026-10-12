@@ -5,7 +5,7 @@ title: "Contact"
 
 ## Let’s talk.
 
-I’m open to data analytics, quantitative research, business analysis, graduate opportunities, and collaborative projects.
+I’m open to Data Science, quantitative research, business analysis, graduate opportunities, and collaborative projects.
 
 ::: {.card-grid}
 ::: {.info-card}
